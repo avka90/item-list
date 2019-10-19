@@ -2,61 +2,61 @@
 	"items" : [
 	{
 		"abr": "gausscannonturret",
-		"price": 8325,
+		"price": -10,
 		"category": "Misc",
 		"defname": "TAUGaussCannon"
 	},
 	{
 		"abr": "missileturret",
-		"price": 8325,
+		"price": -10,
 		"category": "Misc",
 		"defname": "TAUMisslePod"
 	},
 	{
 		"abr": "(old)ceilinglamp",
-		"price": 49,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "CeilingLamp"
 	},
 	{
 		"abr": "(old)ceilinglamp",
-		"price": 49,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "CeilingLamp_Red"
 	},
 	{
 		"abr": "(old)ceilinglamp",
-		"price": 49,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "CeilingLamp_Blue"
 	},
 	{
 		"abr": "(old)ceilinglamp",
-		"price": 49,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "CeilingLamp_Green"
 	},
 	{
 		"abr": "(old)ceilinglamp",
-		"price": 49,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "CeilingLamp_Violet"
 	},
 	{
 		"abr": "(old)ceilinglamp",
-		"price": 49,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "CeilingLamp_Yellow"
 	},
 	{
 		"abr": "(old)ceilinglamp",
-		"price": 49,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "CeilingLamp_Orange"
 	},
 	{
 		"abr": "(old)walllamp",
-		"price": 45,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "WallLamp"
 	},
@@ -68,7 +68,7 @@
 	},
 	{
 		"abr": "aberrantfleshbeastmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_GR_AberrantFleshbeast"
 	},
@@ -80,7 +80,7 @@
 	},
 	{
 		"abr": "abyssiniancatmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AEXP_CatAbyssinian"
 	},
@@ -92,7 +92,7 @@
 	},
 	{
 		"abr": "advancedbionicarm",
-		"price": 4500,
+		"price": 3575,
 		"category": "Advanced bionics",
 		"defname": "AdvancedBionicArm"
 	},
@@ -236,25 +236,25 @@
 	},
 	{
 		"abr": "aerofleetfur",
-		"price": 5,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "AA_Leather_Aerofleet"
 	},
 	{
 		"abr": "aerofleetmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "AA_AerofleetMeat"
 	},
 	{
 		"abr": "aerofleetmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AA_Aerofleet"
 	},
 	{
 		"abr": "agariluxrawfungus",
-		"price": 2,
+		"price": -10,
 		"category": "Raw vegetarian",
 		"defname": "AA_AgariluxRawFungus"
 	},
@@ -266,7 +266,7 @@
 	},
 	{
 		"abr": "agaripodmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AA_Agaripod"
 	},
@@ -278,13 +278,13 @@
 	},
 	{
 		"abr": "agavefruit",
-		"price": 2,
+		"price": -10,
 		"category": "Raw vegetarian",
 		"defname": "RawAgave"
 	},
 	{
 		"abr": "agavemosto",
-		"price": 4,
+		"price": -10,
 		"category": "Alcohol precursors",
 		"defname": "RC2_AgaveMosto"
 	},
@@ -320,7 +320,7 @@
 	},
 	{
 		"abr": "alaitocautarcharmor",
-		"price": 833,
+		"price": -10,
 		"category": "Eldar",
 		"defname": "AlaitocAutarchArmor"
 	},
@@ -332,7 +332,7 @@
 	},
 	{
 		"abr": "alaitocbansheearmor",
-		"price": 833,
+		"price": -10,
 		"category": "Eldar",
 		"defname": "AlaitocBansheeArmor"
 	},
@@ -344,7 +344,7 @@
 	},
 	{
 		"abr": "alaitocfarseerarmor",
-		"price": 833,
+		"price": -10,
 		"category": "Eldar",
 		"defname": "AlaitocFarseerArmor"
 	},
@@ -356,7 +356,7 @@
 	},
 	{
 		"abr": "alaitocguardianarmor",
-		"price": 833,
+		"price": -10,
 		"category": "Eldar",
 		"defname": "AlaitocGuardianArmor"
 	},
@@ -374,7 +374,7 @@
 	},
 	{
 		"abr": "alaitocrangerarmor",
-		"price": 833,
+		"price": -10,
 		"category": "Eldar",
 		"defname": "AlaitocRangerArmor"
 	},
@@ -410,19 +410,19 @@
 	},
 	{
 		"abr": "alpacameat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Alpaca"
 	},
 	{
 		"abr": "alpacawool",
-		"price": 4,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "WoolAlpaca"
 	},
 	{
 		"abr": "alphapoly",
-		"price": 195,
+		"price": -10,
 		"category": "Raw resources",
 		"defname": "AlphaPoly"
 	},
@@ -434,7 +434,7 @@
 	},
 	{
 		"abr": "alphabeavermeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Alphabeaver"
 	},
@@ -458,7 +458,7 @@
 	},
 	{
 		"abr": "ambrosiamust",
-		"price": 83,
+		"price": -10,
 		"category": "Alcohol precursors",
 		"defname": "RC2_AmbrosiaMust"
 	},
@@ -482,7 +482,7 @@
 	},
 	{
 		"abr": "ambullmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_O21_Ambull"
 	},
@@ -710,7 +710,7 @@
 	},
 	{
 		"abr": "animusvoxmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AA_AnimusVox"
 	},
@@ -746,13 +746,13 @@
 	},
 	{
 		"abr": "applemust",
-		"price": 4,
+		"price": -10,
 		"category": "Alcohol precursors",
 		"defname": "RC2_AppleMust"
 	},
 	{
 		"abr": "apples",
-		"price": 2,
+		"price": -10,
 		"category": "Raw fruits",
 		"defname": "RC2_RawApples"
 	},
@@ -788,7 +788,7 @@
 	},
 	{
 		"abr": "archotechcentipedemeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_GR_ArchotechCentipede"
 	},
@@ -830,13 +830,13 @@
 	},
 	{
 		"abr": "arcticlionfur",
-		"price": 6,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "AA_ArcticLion_Leather"
 	},
 	{
 		"abr": "arcticlionmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AA_ArcticLion"
 	},
@@ -854,7 +854,7 @@
 	},
 	{
 		"abr": "arcturanskyeelmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AA_Skyeel"
 	},
@@ -908,7 +908,7 @@
 	},
 	{
 		"abr": "asparagus",
-		"price": 2,
+		"price": -10,
 		"category": "Raw vegetables",
 		"defname": "RC2_RawAsparagus"
 	},
@@ -920,7 +920,7 @@
 	},
 	{
 		"abr": "autoglassdoor",
-		"price": 17,
+		"price": -10,
 		"category": "Misc",
 		"defname": "AutoDoorGlass"
 	},
@@ -938,19 +938,19 @@
 	},
 	{
 		"abr": "automaticclustermortar",
-		"price": 11942,
+		"price": -10,
 		"category": "Security",
 		"defname": "ClusterMortar"
 	},
 	{
 		"abr": "automaticempmortar",
-		"price": 11942,
+		"price": -10,
 		"category": "Security",
 		"defname": "EMPAMortar"
 	},
 	{
 		"abr": "automaticmortar",
-		"price": 11942,
+		"price": -10,
 		"category": "Security",
 		"defname": "AutoMortar"
 	},
@@ -1010,7 +1010,7 @@
 	},
 	{
 		"abr": "bananas",
-		"price": 3,
+		"price": -10,
 		"category": "Raw fruits",
 		"defname": "RC2_RawBanana"
 	},
@@ -1034,7 +1034,7 @@
 	},
 	{
 		"abr": "barley",
-		"price": 2,
+		"price": -10,
 		"category": "Raw grains",
 		"defname": "RC2_RawBarley"
 	},
@@ -1106,13 +1106,13 @@
 	},
 	{
 		"abr": "beaglemeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AEXP_Beagle"
 	},
 	{
 		"abr": "beaglemeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Keanu_Dog"
 	},
@@ -1130,19 +1130,19 @@
 	},
 	{
 		"abr": "bear/rodentincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_BearRodentPre"
 	},
 	{
 		"abr": "bear/rodentincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_BearmoleIncubator"
 	},
 	{
 		"abr": "bear/rodentincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_MolebearIncubator"
 	},
@@ -1154,19 +1154,19 @@
 	},
 	{
 		"abr": "beargeneticmaterial",
-		"price": 17,
+		"price": -10,
 		"category": "Genetic materials",
 		"defname": "GR_BearGenetic"
 	},
 	{
 		"abr": "bearmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Bear_Grizzly"
 	},
 	{
 		"abr": "bearparagonserum",
-		"price": 17,
+		"price": -10,
 		"category": "Paragon serums",
 		"defname": "GR_BearSerum"
 	},
@@ -1214,7 +1214,7 @@
 	},
 	{
 		"abr": "bearfallomilk",
-		"price": 5,
+		"price": -10,
 		"category": "Raw animal products",
 		"defname": "GR_BearffaloMilk"
 	},
@@ -1226,7 +1226,7 @@
 	},
 	{
 		"abr": "bearffalowool",
-		"price": 4,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "GR_BearffaloWool"
 	},
@@ -1250,7 +1250,7 @@
 	},
 	{
 		"abr": "bearskin",
-		"price": 6,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Bear"
 	},
@@ -1274,7 +1274,7 @@
 	},
 	{
 		"abr": "beaverwolfcastoreum",
-		"price": 2,
+		"price": -10,
 		"category": "Raw vegetarian",
 		"defname": "GR_Castoreum"
 	},
@@ -1310,19 +1310,19 @@
 	},
 	{
 		"abr": "beef",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Cow"
 	},
 	{
 		"abr": "beef",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AEXP_Wildebeest"
 	},
 	{
 		"abr": "beef",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AEXP_Yak"
 	},
@@ -1334,13 +1334,13 @@
 	},
 	{
 		"abr": "beets",
-		"price": 2,
+		"price": -10,
 		"category": "Raw vegetables",
 		"defname": "RC2_RawBeets"
 	},
 	{
 		"abr": "bench",
-		"price": 86,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Seat_Bench"
 	},
@@ -1352,7 +1352,7 @@
 	},
 	{
 		"abr": "bengalcatmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AEXP_CatBengal"
 	},
@@ -1364,13 +1364,13 @@
 	},
 	{
 		"abr": "berries",
-		"price": 2,
+		"price": -10,
 		"category": "Raw vegetarian",
 		"defname": "RawBerries"
 	},
 	{
 		"abr": "betapoly",
-		"price": 392,
+		"price": -10,
 		"category": "Raw resources",
 		"defname": "BetaPoly"
 	},
@@ -1382,7 +1382,7 @@
 	},
 	{
 		"abr": "biel-tanautarcharmor",
-		"price": 833,
+		"price": -10,
 		"category": "Eldar",
 		"defname": "BielTanAutarchArmor"
 	},
@@ -1394,7 +1394,7 @@
 	},
 	{
 		"abr": "biel-tanbansheearmor",
-		"price": 833,
+		"price": -10,
 		"category": "Eldar",
 		"defname": "BielTanBansheeArmor"
 	},
@@ -1406,7 +1406,7 @@
 	},
 	{
 		"abr": "biel-tanfarseerarmor",
-		"price": 833,
+		"price": -10,
 		"category": "Eldar",
 		"defname": "BielTanFarseerArmor"
 	},
@@ -1418,7 +1418,7 @@
 	},
 	{
 		"abr": "biel-tanguardianarmor",
-		"price": 833,
+		"price": -10,
 		"category": "Eldar",
 		"defname": "BielTanGuardianArmor"
 	},
@@ -1436,7 +1436,7 @@
 	},
 	{
 		"abr": "biel-tanrangerarmor",
-		"price": 833,
+		"price": -10,
 		"category": "Eldar",
 		"defname": "BielTanRangerArmor"
 	},
@@ -1478,7 +1478,7 @@
 	},
 	{
 		"abr": "biolabsunlamp",
-		"price": 1442,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Spacer_SunLamp"
 	},
@@ -1622,7 +1622,7 @@
 	},
 	{
 		"abr": "biosolids",
-		"price": 0,
+		"price": 1,
 		"category": "Waste",
 		"defname": "Biosolids"
 	},
@@ -1634,19 +1634,19 @@
 	},
 	{
 		"abr": "birdmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Cassowary"
 	},
 	{
 		"abr": "birdmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AEXP_Goose"
 	},
 	{
 		"abr": "birdskin",
-		"price": 3,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Bird"
 	},
@@ -1670,19 +1670,19 @@
 	},
 	{
 		"abr": "bisonmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AEXP_Bison"
 	},
 	{
 		"abr": "bisonwool",
-		"price": 7,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "AEXP_WoolBison"
 	},
 	{
 		"abr": "blackhiveinsectjelly",
-		"price": 15,
+		"price": -10,
 		"category": "Raw animal products",
 		"defname": "AA_BlackInsectJelly"
 	},
@@ -1694,7 +1694,7 @@
 	},
 	{
 		"abr": "blackinsectchitin",
-		"price": 7,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_BlackChitin"
 	},
@@ -1790,19 +1790,19 @@
 	},
 	{
 		"abr": "blastdoor",
-		"price": 7958,
+		"price": -10,
 		"category": "Misc",
 		"defname": "BlastDoor"
 	},
 	{
 		"abr": "blastdoor(2x1)",
-		"price": 1525,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "PH_DoorBlastDoor"
 	},
 	{
 		"abr": "blastdoor(3x2)",
-		"price": 2467,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "PH_DoorThickBlastDoor"
 	},
@@ -1904,13 +1904,13 @@
 	},
 	{
 		"abr": "bluemilk",
-		"price": 8,
+		"price": -10,
 		"category": "Raw animal products",
 		"defname": "AA_BlueMilk"
 	},
 	{
 		"abr": "bluerawfungus",
-		"price": 2,
+		"price": -10,
 		"category": "Raw vegetarian",
 		"defname": "AB_BlueRawFungus"
 	},
@@ -1928,19 +1928,19 @@
 	},
 	{
 		"abr": "bluebladefilet",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Blueblade"
 	},
 	{
 		"abr": "bluefur",
-		"price": 4,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Bluefur"
 	},
 	{
 		"abr": "boarparagonserum",
-		"price": 17,
+		"price": -10,
 		"category": "Paragon serums",
 		"defname": "GR_BoarSerum"
 	},
@@ -2024,127 +2024,127 @@
 	},
 	{
 		"abr": "boomalope/bearincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_BearBoomalopePre"
 	},
 	{
 		"abr": "boomalope/bearincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_BearalopeIncubator"
 	},
 	{
 		"abr": "boomalope/bearincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_BoomabearIncubator"
 	},
 	{
 		"abr": "boomalope/catincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_BoomalopeCatPre"
 	},
 	{
 		"abr": "boomalope/catincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_BoomalopeCatIncubator"
 	},
 	{
 		"abr": "boomalope/catincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_CatBoomalopeIncubator"
 	},
 	{
 		"abr": "boomalope/chickenincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_BoomalopeChickenPre"
 	},
 	{
 		"abr": "boomalope/chickenincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_BoomalopeChickenIncubator"
 	},
 	{
 		"abr": "boomalope/chickenincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_ChickenBoomalopeIncubator"
 	},
 	{
 		"abr": "boomalope/muffaloincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_BoomalopeMuffaloPre"
 	},
 	{
 		"abr": "boomalope/muffaloincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_BoomalopeMuffaloIncubator"
 	},
 	{
 		"abr": "boomalope/muffaloincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_MuffaloBoomalopeIncubator"
 	},
 	{
 		"abr": "boomalope/rodentincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_BoomalopeRodentPre"
 	},
 	{
 		"abr": "boomalope/rodentincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_BoomsquirrelIncubator"
 	},
 	{
 		"abr": "boomalope/rodentincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_SquirralopeIncubator"
 	},
 	{
 		"abr": "boomalope/wolfincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_BoomalopeWolfPre"
 	},
 	{
 		"abr": "boomalope/wolfincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_BoomalopeWolfIncubator"
 	},
 	{
 		"abr": "boomalope/wolfincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_WolfBoomalopeIncubator"
 	},
 	{
 		"abr": "boomalopegeneticmaterial",
-		"price": 17,
+		"price": -10,
 		"category": "Genetic materials",
 		"defname": "GR_BoomalopeGenetic"
 	},
 	{
 		"abr": "boomalopemeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Boomalope"
 	},
 	{
 		"abr": "boomalopeparagonserum",
-		"price": 17,
+		"price": -10,
 		"category": "Paragon serums",
 		"defname": "GR_BoomalopeSerum"
 	},
@@ -2162,7 +2162,7 @@
 	},
 	{
 		"abr": "boomffalowool",
-		"price": 4,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "GR_BoomffaloWool"
 	},
@@ -2174,7 +2174,7 @@
 	},
 	{
 		"abr": "boomratmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Boomrat"
 	},
@@ -2198,7 +2198,7 @@
 	},
 	{
 		"abr": "boots",
-		"price": 110,
+		"price": -10,
 		"category": "Handwear and footwear",
 		"defname": "VAE_Footwear_Boots"
 	},
@@ -2210,7 +2210,7 @@
 	},
 	{
 		"abr": "bouldermitmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AA_BoulderMit"
 	},
@@ -2240,7 +2240,7 @@
 	},
 	{
 		"abr": "breadfruit",
-		"price": 2,
+		"price": -10,
 		"category": "Raw fruits",
 		"defname": "RC2_RawBreadfruit"
 	},
@@ -2252,7 +2252,7 @@
 	},
 	{
 		"abr": "brightlanceturret",
-		"price": 8350,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ELDBrightlance"
 	},
@@ -2270,13 +2270,13 @@
 	},
 	{
 		"abr": "britishshorthaircatmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AEXP_CatBritishShorthair"
 	},
 	{
 		"abr": "brownfur",
-		"price": 6,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "AEXP_Leather_Brownfur"
 	},
@@ -2336,7 +2336,7 @@
 	},
 	{
 		"abr": "cabbages",
-		"price": 1,
+		"price": -10,
 		"category": "Raw vegetables",
 		"defname": "RC2_RawCabbages"
 	},
@@ -2348,13 +2348,13 @@
 	},
 	{
 		"abr": "cactipinemeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AA_Cactipine"
 	},
 	{
 		"abr": "cactusfruit",
-		"price": 3,
+		"price": -10,
 		"category": "Raw fruits",
 		"defname": "RC2_RawCactusFruit"
 	},
@@ -2426,19 +2426,19 @@
 	},
 	{
 		"abr": "camelmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AEXP_Camel"
 	},
 	{
 		"abr": "camelhair",
-		"price": 4,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "WoolCamel"
 	},
 	{
 		"abr": "camelhide",
-		"price": 4,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Camel"
 	},
@@ -2486,25 +2486,25 @@
 	},
 	{
 		"abr": "cannisterturret",
-		"price": 3858,
+		"price": -10,
 		"category": "Security",
 		"defname": "CannisterTurret"
 	},
 	{
 		"abr": "canoptekcannery(blue)",
-		"price": 3767,
+		"price": -10,
 		"category": "Misc",
 		"defname": "O21_CanoptekCanneryBlue"
 	},
 	{
 		"abr": "canoptekcannery(green)",
-		"price": 3767,
+		"price": -10,
 		"category": "Misc",
 		"defname": "O21_CanoptekCanneryGreen"
 	},
 	{
 		"abr": "canoptekcannery(orange)",
-		"price": 3767,
+		"price": -10,
 		"category": "Misc",
 		"defname": "O21_CanoptekCanneryOrange"
 	},
@@ -2546,7 +2546,7 @@
 	},
 	{
 		"abr": "capybarameat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Capybara"
 	},
@@ -2570,13 +2570,13 @@
 	},
 	{
 		"abr": "cariboumeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Caribou"
 	},
 	{
 		"abr": "carrots",
-		"price": 2,
+		"price": -10,
 		"category": "Raw vegetables",
 		"defname": "RC2_RawCarrots"
 	},
@@ -2612,37 +2612,37 @@
 	},
 	{
 		"abr": "cat/bearincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_BearCatPre"
 	},
 	{
 		"abr": "cat/bearincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_CatBearIncubator"
 	},
 	{
 		"abr": "cat/bearincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_BearCatIncubator"
 	},
 	{
 		"abr": "cat/rodentincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_CatRodentPre"
 	},
 	{
 		"abr": "cat/rodentincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_CatRodentIncubator"
 	},
 	{
 		"abr": "cat/rodentincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_RodentCatIncubator"
 	},
@@ -2654,7 +2654,7 @@
 	},
 	{
 		"abr": "catmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Cat"
 	},
@@ -2804,43 +2804,43 @@
 	},
 	{
 		"abr": "ceilinglamp",
-		"price": 49,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "GLCeilingLamp"
 	},
 	{
 		"abr": "ceilinglamp(blue)",
-		"price": 49,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "GLCeilingLamp_Blue"
 	},
 	{
 		"abr": "ceilinglamp(green)",
-		"price": 49,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "GLCeilingLamp_Green"
 	},
 	{
 		"abr": "ceilinglamp(orange)",
-		"price": 49,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "GLCeilingLamp_Orange"
 	},
 	{
 		"abr": "ceilinglamp(red)",
-		"price": 49,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "GLCeilingLamp_Red"
 	},
 	{
 		"abr": "ceilinglamp(violet)",
-		"price": 49,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "GLCeilingLamp_Violet"
 	},
 	{
 		"abr": "ceilinglamp(yellow)",
-		"price": 49,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "GLCeilingLamp_Yellow"
 	},
@@ -2852,19 +2852,19 @@
 	},
 	{
 		"abr": "ceramite(high-grade)",
-		"price": 20,
+		"price": -10,
 		"category": "Raw resources",
 		"defname": "CeramiteHighGrade"
 	},
 	{
 		"abr": "ceramite(low-grade)",
-		"price": 3,
+		"price": -10,
 		"category": "Raw resources",
 		"defname": "CeramiteLowGrade"
 	},
 	{
 		"abr": "ceramite(medium-grade)",
-		"price": 12,
+		"price": -10,
 		"category": "Raw resources",
 		"defname": "CeramiteMedGrade"
 	},
@@ -2954,7 +2954,7 @@
 	},
 	{
 		"abr": "chargeturret",
-		"price": 1708,
+		"price": -10,
 		"category": "Security",
 		"defname": "VFES_Turret_ChargeTurret"
 	},
@@ -2996,7 +2996,7 @@
 	},
 	{
 		"abr": "cheetahmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AEXP_Cheetah"
 	},
@@ -3056,7 +3056,7 @@
 	},
 	{
 		"abr": "cherries",
-		"price": 3,
+		"price": -10,
 		"category": "Raw fruits",
 		"defname": "RC2_RawCherries"
 	},
@@ -3086,91 +3086,91 @@
 	},
 	{
 		"abr": "chicken/bearincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_BearChickenPre"
 	},
 	{
 		"abr": "chicken/bearincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_ChickenBearIncubator"
 	},
 	{
 		"abr": "chicken/bearincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_BearChickenIncubator"
 	},
 	{
 		"abr": "chicken/catincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_ChickenCatPre"
 	},
 	{
 		"abr": "chicken/catincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_ChickenCatIncubator"
 	},
 	{
 		"abr": "chicken/catincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_CatChickenIncubator"
 	},
 	{
 		"abr": "chicken/leporidincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_ChickenRodentPre"
 	},
 	{
 		"abr": "chicken/leporidincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_ChickenrabbitIncubator"
 	},
 	{
 		"abr": "chicken/leporidincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_RabbitchickenIncubator"
 	},
 	{
 		"abr": "chicken/muffaloincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_ChickenMuffaloPre"
 	},
 	{
 		"abr": "chicken/muffaloincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_ChickenMuffaloIncubator"
 	},
 	{
 		"abr": "chicken/muffaloincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_MuffaloChickenIncubator"
 	},
 	{
 		"abr": "chicken/wolfincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_ChickenWolfPre"
 	},
 	{
 		"abr": "chicken/wolfincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_ChickenWolfIncubator"
 	},
 	{
 		"abr": "chicken/wolfincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_WolfChickenIncubator"
 	},
@@ -3188,19 +3188,19 @@
 	},
 	{
 		"abr": "chickengeneticmaterial",
-		"price": 17,
+		"price": -10,
 		"category": "Genetic materials",
 		"defname": "GR_ChickenGenetic"
 	},
 	{
 		"abr": "chickenmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Chicken"
 	},
 	{
 		"abr": "chickenparagonserum",
-		"price": 17,
+		"price": -10,
 		"category": "Paragon serums",
 		"defname": "GR_ChickenSerum"
 	},
@@ -3260,13 +3260,13 @@
 	},
 	{
 		"abr": "chickenffalomilk",
-		"price": 2,
+		"price": -10,
 		"category": "Raw animal products",
 		"defname": "GR_ChickenffaloMilk"
 	},
 	{
 		"abr": "chickenffalowool",
-		"price": 4,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "GR_ChickenffaloWool"
 	},
@@ -3344,7 +3344,7 @@
 	},
 	{
 		"abr": "chickenspidersilk",
-		"price": 17,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "GR_ChickenspiderSilk"
 	},
@@ -3368,7 +3368,7 @@
 	},
 	{
 		"abr": "chickpeas",
-		"price": 2,
+		"price": -10,
 		"category": "Raw vegetables",
 		"defname": "RC2_RawChickpeas"
 	},
@@ -3380,13 +3380,13 @@
 	},
 	{
 		"abr": "chihuahuameat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AEXP_Chihuahua"
 	},
 	{
 		"abr": "chilipeppers",
-		"price": 3,
+		"price": -10,
 		"category": "Raw vegetables",
 		"defname": "RC2_RawPeppers"
 	},
@@ -3398,25 +3398,25 @@
 	},
 	{
 		"abr": "chinchillafur",
-		"price": 11,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Chinchilla"
 	},
 	{
 		"abr": "chinchillameat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Chinchilla"
 	},
 	{
 		"abr": "chitinousleather",
-		"price": 17,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Vespid"
 	},
 	{
 		"abr": "chitinousleather",
-		"price": 17,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Ambull"
 	},
@@ -3476,7 +3476,7 @@
 	},
 	{
 		"abr": "citrusfruits",
-		"price": 2,
+		"price": -10,
 		"category": "Raw fruits",
 		"defname": "RC2_RawOrange"
 	},
@@ -3500,7 +3500,7 @@
 	},
 	{
 		"abr": "cloth",
-		"price": 2,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "Cloth"
 	},
@@ -3542,13 +3542,13 @@
 	},
 	{
 		"abr": "cobraflesh",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Cobra"
 	},
 	{
 		"abr": "cobraflesh",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AEXP_Rattlesnake"
 	},
@@ -3566,13 +3566,13 @@
 	},
 	{
 		"abr": "coconutwort",
-		"price": 4,
+		"price": -10,
 		"category": "Alcohol precursors",
 		"defname": "RC2_CoconutWort"
 	},
 	{
 		"abr": "coconuts",
-		"price": 3,
+		"price": -10,
 		"category": "Raw fruits",
 		"defname": "RC2_RawCoconut"
 	},
@@ -3614,7 +3614,7 @@
 	},
 	{
 		"abr": "colossalaerofleetmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AA_ColossalAerofleet"
 	},
@@ -3680,7 +3680,7 @@
 	},
 	{
 		"abr": "composite",
-		"price": 13,
+		"price": -10,
 		"category": "Synthamide",
 		"defname": "FiberComposite"
 	},
@@ -3740,19 +3740,19 @@
 	},
 	{
 		"abr": "corgimeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AEXP_Corgi"
 	},
 	{
 		"abr": "corn",
-		"price": 2,
+		"price": -10,
 		"category": "Raw vegetarian",
 		"defname": "RawCorn"
 	},
 	{
 		"abr": "cornmash",
-		"price": 4,
+		"price": -10,
 		"category": "Alcohol precursors",
 		"defname": "RC2_CornMash"
 	},
@@ -3770,31 +3770,31 @@
 	},
 	{
 		"abr": "couchcenter",
-		"price": 375,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Anon2CouchCenter"
 	},
 	{
 		"abr": "couchcorner",
-		"price": 375,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Anon2CouchCorner"
 	},
 	{
 		"abr": "couchcornerinverted",
-		"price": 375,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Anon2CouchCornerInv"
 	},
 	{
 		"abr": "couchleft",
-		"price": 375,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Anon2CouchLeft"
 	},
 	{
 		"abr": "couchright",
-		"price": 375,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Anon2CouchRight"
 	},
@@ -3806,25 +3806,25 @@
 	},
 	{
 		"abr": "cougarmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Cougar"
 	},
 	{
 		"abr": "counter",
-		"price": 38,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Anon2CounterA"
 	},
 	{
 		"abr": "counterfull",
-		"price": 38,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Anon2CounterAFull"
 	},
 	{
 		"abr": "countertop",
-		"price": 53,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Table_Counter"
 	},
@@ -3848,7 +3848,7 @@
 	},
 	{
 		"abr": "coyotemeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AEXP_Coyote"
 	},
@@ -3860,7 +3860,7 @@
 	},
 	{
 		"abr": "crate",
-		"price": 54,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "CCPSS_Crate"
 	},
@@ -3884,7 +3884,7 @@
 	},
 	{
 		"abr": "crib",
-		"price": 105,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Crib"
 	},
@@ -3914,7 +3914,7 @@
 	},
 	{
 		"abr": "crocodilemeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AEXP_Crocodile"
 	},
@@ -3938,7 +3938,7 @@
 	},
 	{
 		"abr": "cruisemissileturret",
-		"price": 34383,
+		"price": -10,
 		"category": "Security",
 		"defname": "CMissileTurret"
 	},
@@ -3980,7 +3980,7 @@
 	},
 	{
 		"abr": "cucumbers",
-		"price": 2,
+		"price": -10,
 		"category": "Raw vegetables",
 		"defname": "RC2_RawCucumbers"
 	},
@@ -3992,7 +3992,7 @@
 	},
 	{
 		"abr": "curtain(tribal)",
-		"price": 172,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "HeronCurtainTribal"
 	},
@@ -4052,7 +4052,7 @@
 	},
 	{
 		"abr": "decaydrakemeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AA_DecayDrake"
 	},
@@ -4118,7 +4118,7 @@
 	},
 	{
 		"abr": "deserttortoisemeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AEXP_DesertTortoise"
 	},
@@ -4148,13 +4148,13 @@
 	},
 	{
 		"abr": "devilsheepmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AA_DevilSheep"
 	},
 	{
 		"abr": "devilstrand",
-		"price": 9,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "DevilstrandCloth"
 	},
@@ -4196,25 +4196,25 @@
 	},
 	{
 		"abr": "dogarmorvest",
-		"price": 558,
+		"price": -10,
 		"category": "[Animal Apparel]",
 		"defname": "Apparel_DogArmorVest"
 	},
 	{
 		"abr": "doggambeson",
-		"price": 400,
+		"price": -10,
 		"category": "[Animal Apparel]",
 		"defname": "Apparel_DogGambeson"
 	},
 	{
 		"abr": "dogleather",
-		"price": 3,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Dog"
 	},
 	{
 		"abr": "dogscarf",
-		"price": 83,
+		"price": -10,
 		"category": "[Animal Apparel]",
 		"defname": "Apparel_DogScarf"
 	},
@@ -4232,13 +4232,13 @@
 	},
 	{
 		"abr": "door(1x2)",
-		"price": 172,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "PH_DoorDouble"
 	},
 	{
 		"abr": "door(3x1)",
-		"price": 260,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "PH_DoorTriple"
 	},
@@ -4256,37 +4256,37 @@
 	},
 	{
 		"abr": "doormat",
-		"price": 8,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "DoorMatLeather"
 	},
 	{
 		"abr": "doormat(blue)",
-		"price": 8,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "DoorMatBlue"
 	},
 	{
 		"abr": "doormat(green)",
-		"price": 8,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "DoorMatGreen"
 	},
 	{
 		"abr": "doormat(orange)",
-		"price": 8,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "DoorMatOrange"
 	},
 	{
 		"abr": "doormat(red)",
-		"price": 8,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "DoorMatRed"
 	},
 	{
 		"abr": "doormat(teal)",
-		"price": 8,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "DoorMatTeal"
 	},
@@ -4358,7 +4358,7 @@
 	},
 	{
 		"abr": "dromedarymeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Dromedary"
 	},
@@ -4394,7 +4394,7 @@
 	},
 	{
 		"abr": "duckmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AEXP_Duck"
 	},
@@ -4424,7 +4424,7 @@
 	},
 	{
 		"abr": "durians",
-		"price": 3,
+		"price": -10,
 		"category": "Raw fruits",
 		"defname": "RC2_RawDurians"
 	},
@@ -4436,7 +4436,7 @@
 	},
 	{
 		"abr": "duskratmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AA_DuskRat"
 	},
@@ -4472,7 +4472,7 @@
 	},
 	{
 		"abr": "eggplants",
-		"price": 2,
+		"price": -10,
 		"category": "Raw vegetables",
 		"defname": "RC2_RawEggplants"
 	},
@@ -4496,7 +4496,7 @@
 	},
 	{
 		"abr": "eldarleather",
-		"price": 7,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Eldar"
 	},
@@ -4508,7 +4508,7 @@
 	},
 	{
 		"abr": "eldarmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Alien_Eldar"
 	},
@@ -4622,19 +4622,19 @@
 	},
 	{
 		"abr": "elephanthowdah",
-		"price": 650,
+		"price": -10,
 		"category": "[Animal Apparel]",
 		"defname": "Apparel_Howdah"
 	},
 	{
 		"abr": "elephantleather",
-		"price": 5,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Elephant"
 	},
 	{
 		"abr": "elephantmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Elephant"
 	},
@@ -4658,13 +4658,13 @@
 	},
 	{
 		"abr": "elkmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Elk"
 	},
 	{
 		"abr": "embrasure",
-		"price": 27,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Embrasure"
 	},
@@ -4712,13 +4712,13 @@
 	},
 	{
 		"abr": "emptyincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_EmptyIncubator"
 	},
 	{
 		"abr": "emrgturret",
-		"price": 6875,
+		"price": -10,
 		"category": "Security",
 		"defname": "EMTurret"
 	},
@@ -4754,7 +4754,7 @@
 	},
 	{
 		"abr": "emuparagonserum",
-		"price": 17,
+		"price": -10,
 		"category": "Paragon serums",
 		"defname": "GR_EmuSerum"
 	},
@@ -4874,7 +4874,7 @@
 	},
 	{
 		"abr": "explosivesworkshop",
-		"price": 717,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "rxBench"
 	},
@@ -4904,7 +4904,7 @@
 	},
 	{
 		"abr": "felinegeneticmaterial",
-		"price": 17,
+		"price": -10,
 		"category": "Genetic materials",
 		"defname": "GR_FelineGenetic"
 	},
@@ -4964,7 +4964,7 @@
 	},
 	{
 		"abr": "figs",
-		"price": 3,
+		"price": -10,
 		"category": "Raw fruits",
 		"defname": "RC2_RawFigs"
 	},
@@ -5030,7 +5030,7 @@
 	},
 	{
 		"abr": "fissionmousemeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AA_FissionMouse"
 	},
@@ -5072,7 +5072,7 @@
 	},
 	{
 		"abr": "flameturret",
-		"price": 1117,
+		"price": -10,
 		"category": "Security",
 		"defname": "VFES_Turret_Flame"
 	},
@@ -5114,13 +5114,13 @@
 	},
 	{
 		"abr": "floodlight",
-		"price": 808,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "FloodLight"
 	},
 	{
 		"abr": "floorturret",
-		"price": 992,
+		"price": -10,
 		"category": "Security",
 		"defname": "VFES_Turret_FloorTurret"
 	},
@@ -5156,13 +5156,13 @@
 	},
 	{
 		"abr": "forsakenanglerfishchunks",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "AB_ForsakenAnglerfishChunks"
 	},
 	{
 		"abr": "forsakenanglerfishmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AB_ForsakenAnglerfish"
 	},
@@ -5174,25 +5174,25 @@
 	},
 	{
 		"abr": "foxbandana",
-		"price": 83,
+		"price": -10,
 		"category": "[Animal Apparel]",
 		"defname": "Apparel_FoxBandana"
 	},
 	{
 		"abr": "foxbandanared",
-		"price": 83,
+		"price": -10,
 		"category": "[Animal Apparel]",
 		"defname": "Apparel_FoxBandanaRed"
 	},
 	{
 		"abr": "foxfur",
-		"price": 6,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Fox"
 	},
 	{
 		"abr": "foxmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Fox_Fennec"
 	},
@@ -5216,7 +5216,7 @@
 	},
 	{
 		"abr": "frenchbulldogmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AEXP_FrenchBulldog"
 	},
@@ -5234,7 +5234,7 @@
 	},
 	{
 		"abr": "frostlingmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AA_Frostling"
 	},
@@ -5258,7 +5258,7 @@
 	},
 	{
 		"abr": "fruitmust",
-		"price": 4,
+		"price": -10,
 		"category": "Alcohol precursors",
 		"defname": "RC2_FruitMust"
 	},
@@ -5318,13 +5318,13 @@
 	},
 	{
 		"abr": "gallatrossleather",
-		"price": 27,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Gallatross"
 	},
 	{
 		"abr": "gallatrossmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AA_Gallatross"
 	},
@@ -5342,13 +5342,13 @@
 	},
 	{
 		"abr": "gardenlantern",
-		"price": 77,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "GardenLantern"
 	},
 	{
 		"abr": "gardenlantern(blue)",
-		"price": 77,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "GardenLanternB"
 	},
@@ -5366,7 +5366,7 @@
 	},
 	{
 		"abr": "gasheater",
-		"price": 1433,
+		"price": -10,
 		"category": "Temperature",
 		"defname": "GasHeater"
 	},
@@ -5384,13 +5384,13 @@
 	},
 	{
 		"abr": "gaspipe(liquefiedgas)",
-		"price": 7,
+		"price": -10,
 		"category": "Misc",
 		"defname": "LiquidGasPipeline"
 	},
 	{
 		"abr": "gaspipe(naturalgas)",
-		"price": 7,
+		"price": -10,
 		"category": "Misc",
 		"defname": "GasPipeline"
 	},
@@ -5420,85 +5420,85 @@
 	},
 	{
 		"abr": "gate(2x1)",
-		"price": 608,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "PH_GateDoubleThick"
 	},
 	{
 		"abr": "gausscell(blue)",
-		"price": 17,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "O21_NecronGaussCell_Blue"
 	},
 	{
 		"abr": "gausscell(green)",
-		"price": 17,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "O21_NecronGaussCell_Green"
 	},
 	{
 		"abr": "gausscell(orange)",
-		"price": 17,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "O21_NecronGaussCell_Orange"
 	},
 	{
 		"abr": "gaussconduit",
-		"price": 17,
+		"price": -10,
 		"category": "Misc",
 		"defname": "GaussConduit"
 	},
 	{
 		"abr": "gaussconduit(blue)",
-		"price": 42,
+		"price": -10,
 		"category": "Misc",
 		"defname": "GaussConduitGlowingBlue"
 	},
 	{
 		"abr": "gaussconduit(blue,bright)",
-		"price": 67,
+		"price": -10,
 		"category": "Misc",
 		"defname": "GaussConduitGlowingBlueBright"
 	},
 	{
 		"abr": "gaussconduit(green)",
-		"price": 42,
+		"price": -10,
 		"category": "Misc",
 		"defname": "GaussConduitGlowing"
 	},
 	{
 		"abr": "gaussconduit(green,bright)",
-		"price": 67,
+		"price": -10,
 		"category": "Misc",
 		"defname": "GaussConduitGlowingBright"
 	},
 	{
 		"abr": "gaussconduit(orange)",
-		"price": 42,
+		"price": -10,
 		"category": "Misc",
 		"defname": "GaussConduitGlowingOrange"
 	},
 	{
 		"abr": "gaussconduit(orange,bright)",
-		"price": 67,
+		"price": -10,
 		"category": "Misc",
 		"defname": "GaussConduitGlowingOrangeBright"
 	},
 	{
 		"abr": "gausscrystal(blue)",
-		"price": 8,
+		"price": -10,
 		"category": "Raw resources",
 		"defname": "GaussCrystalBlue"
 	},
 	{
 		"abr": "gausscrystal(green)",
-		"price": 8,
+		"price": -10,
 		"category": "Raw resources",
 		"defname": "GaussCrystalGreen"
 	},
 	{
 		"abr": "gausscrystal(orange)",
-		"price": 8,
+		"price": -10,
 		"category": "Raw resources",
 		"defname": "GaussCrystalOrange"
 	},
@@ -5528,7 +5528,7 @@
 	},
 	{
 		"abr": "gazellemeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Gazelle"
 	},
@@ -5588,7 +5588,7 @@
 	},
 	{
 		"abr": "germanshepherdmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AEXP_GermanShepherd"
 	},
@@ -5612,7 +5612,7 @@
 	},
 	{
 		"abr": "gigantelopemeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AA_Gigantelope"
 	},
@@ -5636,7 +5636,7 @@
 	},
 	{
 		"abr": "gilamonstermeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AEXP_GilaMonster"
 	},
@@ -5654,7 +5654,7 @@
 	},
 	{
 		"abr": "ginprecursor",
-		"price": 4,
+		"price": -10,
 		"category": "Alcohol precursors",
 		"defname": "RC2_GinPrecursor"
 	},
@@ -5666,7 +5666,7 @@
 	},
 	{
 		"abr": "giraffemeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AEXP_Giraffe"
 	},
@@ -5684,7 +5684,7 @@
 	},
 	{
 		"abr": "glassdoor",
-		"price": 17,
+		"price": -10,
 		"category": "Misc",
 		"defname": "DoorGlass"
 	},
@@ -5732,7 +5732,7 @@
 	},
 	{
 		"abr": "gloves",
-		"price": 89,
+		"price": -10,
 		"category": "Handwear and footwear",
 		"defname": "VAE_Handwear_Gloves"
 	},
@@ -5756,7 +5756,7 @@
 	},
 	{
 		"abr": "goatmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AEXP_Goat"
 	},
@@ -5816,13 +5816,13 @@
 	},
 	{
 		"abr": "grapemust",
-		"price": 4,
+		"price": -10,
 		"category": "Alcohol precursors",
 		"defname": "RC2_GrapeMust"
 	},
 	{
 		"abr": "grapes",
-		"price": 3,
+		"price": -10,
 		"category": "Raw fruits",
 		"defname": "RC2_RawGrapes"
 	},
@@ -5834,7 +5834,7 @@
 	},
 	{
 		"abr": "greatdanemeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AEXP_GreatDane"
 	},
@@ -5858,7 +5858,7 @@
 	},
 	{
 		"abr": "greatdevourermeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AA_GreatDevourer"
 	},
@@ -5882,7 +5882,7 @@
 	},
 	{
 		"abr": "greaterknarlocmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_GreaterKnarloc"
 	},
@@ -5894,7 +5894,7 @@
 	},
 	{
 		"abr": "greengoomeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AA_GreenGoo"
 	},
@@ -5942,25 +5942,25 @@
 	},
 	{
 		"abr": "grotheavyfatigues",
-		"price": 83,
+		"price": -10,
 		"category": "Grot",
 		"defname": "GrotClothingCloth"
 	},
 	{
 		"abr": "grotlightfatigues",
-		"price": 67,
+		"price": -10,
 		"category": "Grot",
 		"defname": "GrotClothingLeather"
 	},
 	{
 		"abr": "grotloincloth",
-		"price": 50,
+		"price": -10,
 		"category": "Grot",
 		"defname": "GrotClothingLoinCloth"
 	},
 	{
 		"abr": "grotmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Alien_Grot"
 	},
@@ -5978,43 +5978,43 @@
 	},
 	{
 		"abr": "groundrunnermeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AA_Groundrunner"
 	},
 	{
 		"abr": "gue'vesaarmor",
-		"price": 833,
+		"price": -10,
 		"category": "Tau",
 		"defname": "GuevesaArmor"
 	},
 	{
 		"abr": "gue'vesaarmor(sa'cea)",
-		"price": 833,
+		"price": -10,
 		"category": "Tau",
 		"defname": "GuevesaArmorSacea"
 	},
 	{
 		"abr": "gue'vesahelmet",
-		"price": 167,
+		"price": -10,
 		"category": "Tau",
 		"defname": "GuevesaHelmet"
 	},
 	{
 		"abr": "gue'vesahelmet(sa'cea)",
-		"price": 167,
+		"price": -10,
 		"category": "Tau",
 		"defname": "GuevesaHelmetSacea"
 	},
 	{
 		"abr": "gue'vesauniform",
-		"price": 167,
+		"price": -10,
 		"category": "Tau",
 		"defname": "GuevesaUniform"
 	},
 	{
 		"abr": "gue'vesauniform(sa'cea)",
-		"price": 167,
+		"price": -10,
 		"category": "Tau",
 		"defname": "GuevesaUniformSacea"
 	},
@@ -6026,13 +6026,13 @@
 	},
 	{
 		"abr": "guineapigfur",
-		"price": 12,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "AEXP_Leather_GuineaPig"
 	},
 	{
 		"abr": "guineapigmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AEXP_GuineaPig"
 	},
@@ -6044,7 +6044,7 @@
 	},
 	{
 		"abr": "hairballwool",
-		"price": 4,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "GR_HairballWool"
 	},
@@ -6092,7 +6092,7 @@
 	},
 	{
 		"abr": "hardtack",
-		"price": 0,
+		"price": -10,
 		"category": "Meals",
 		"defname": "RC2_Hardtack"
 	},
@@ -6104,13 +6104,13 @@
 	},
 	{
 		"abr": "haremeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Hare"
 	},
 	{
 		"abr": "hareparagonserum",
-		"price": 17,
+		"price": -10,
 		"category": "Paragon serums",
 		"defname": "GR_HareSerum"
 	},
@@ -6164,7 +6164,7 @@
 	},
 	{
 		"abr": "heater",
-		"price": 218,
+		"price": -10,
 		"category": "Temperature",
 		"defname": "Heater"
 	},
@@ -6176,31 +6176,31 @@
 	},
 	{
 		"abr": "heavyflameremplacement",
-		"price": 10825,
+		"price": -10,
 		"category": "Misc",
 		"defname": "IGStationaryFlamer"
 	},
 	{
 		"abr": "heavyfur",
-		"price": 6,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Heavy"
 	},
 	{
 		"abr": "heavygaussturret(blue)",
-		"price": 7383,
+		"price": -10,
 		"category": "Misc",
 		"defname": "O21_Turret_NecronBlue_GaussHeavy"
 	},
 	{
 		"abr": "heavygaussturret(green)",
-		"price": 7383,
+		"price": -10,
 		"category": "Misc",
 		"defname": "O21_Turret_NecronGreen_GaussHeavy"
 	},
 	{
 		"abr": "heavygaussturret(orange)",
-		"price": 7383,
+		"price": -10,
 		"category": "Misc",
 		"defname": "O21_Turret_NecronOrange_GaussHeavy"
 	},
@@ -6218,13 +6218,13 @@
 	},
 	{
 		"abr": "heavyplasmaemplacement",
-		"price": 10825,
+		"price": -10,
 		"category": "Misc",
 		"defname": "IGStationaryPlasma"
 	},
 	{
 		"abr": "heavypowerconduit",
-		"price": 73,
+		"price": -10,
 		"category": "Misc",
 		"defname": "HeavyPowerConduit"
 	},
@@ -6260,13 +6260,13 @@
 	},
 	{
 		"abr": "hippopotamusleather",
-		"price": 6,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "AEXP_Leather_Hippopotamus"
 	},
 	{
 		"abr": "hippopotamusmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AEXP_Hippopotamus"
 	},
@@ -6278,7 +6278,7 @@
 	},
 	{
 		"abr": "hmgcomplex",
-		"price": 750,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VFES_Turret_HMGComplex"
 	},
@@ -6290,7 +6290,7 @@
 	},
 	{
 		"abr": "honeymust",
-		"price": 4,
+		"price": -10,
 		"category": "Alcohol precursors",
 		"defname": "RC2_HoneyMust"
 	},
@@ -6332,43 +6332,43 @@
 	},
 	{
 		"abr": "horsemeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_QuarterHorse"
 	},
 	{
 		"abr": "horsemeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_BlackHorse"
 	},
 	{
 		"abr": "horsemeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_WhiteHorse"
 	},
 	{
 		"abr": "horsemeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Palomino"
 	},
 	{
 		"abr": "horsemeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AEXP_Zebra"
 	},
 	{
 		"abr": "horsemeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AEXP_Horse"
 	},
 	{
 		"abr": "horsemeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AEXP_Donkey"
 	},
@@ -6590,19 +6590,19 @@
 	},
 	{
 		"abr": "humanleather",
-		"price": 7,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Human"
 	},
 	{
 		"abr": "humanmeat",
-		"price": 1,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Human"
 	},
 	{
 		"abr": "humanoidgeneticmaterial",
-		"price": 75,
+		"price": -10,
 		"category": "Genetic materials",
 		"defname": "GR_HumanoidGenetic"
 	},
@@ -6614,91 +6614,91 @@
 	},
 	{
 		"abr": "huskymeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Husky"
 	},
 	{
 		"abr": "hybridbeargenesgenetrainer",
-		"price": 167,
+		"price": -10,
 		"category": "Genetrainers",
 		"defname": "GR_HybridBearGenesGenetrainer"
 	},
 	{
 		"abr": "hybridboomalopegenesgenetrainer",
-		"price": 167,
+		"price": -10,
 		"category": "Genetrainers",
 		"defname": "GR_HybridBoomalopeGenesGenetrainer"
 	},
 	{
 		"abr": "hybridcatgenesgenetrainer",
-		"price": 167,
+		"price": -10,
 		"category": "Genetrainers",
 		"defname": "GR_HybridCatGenesGenetrainer"
 	},
 	{
 		"abr": "hybridchickengenesgenetrainer",
-		"price": 167,
+		"price": -10,
 		"category": "Genetrainers",
 		"defname": "GR_HybridChickenGenesGenetrainer"
 	},
 	{
 		"abr": "hybridimplantplasteelwiremesh(tier2)",
-		"price": 83,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "GR_ImplantPlasteelWireMesh"
 	},
 	{
 		"abr": "hybridimplantsteelwiremesh(tier1)",
-		"price": 75,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "GR_ImplantSteelWireMesh"
 	},
 	{
 		"abr": "hybridimplanturaniumwiremesh(tier3)",
-		"price": 133,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "GR_ImplantUraniumWireMesh"
 	},
 	{
 		"abr": "hybridinsectoidgenesgenetrainer",
-		"price": 167,
+		"price": -10,
 		"category": "Genetrainers",
 		"defname": "GR_HybridInsectoidGenesGenetrainer"
 	},
 	{
 		"abr": "hybridmechanoidgenesgenetrainer",
-		"price": 167,
+		"price": -10,
 		"category": "Genetrainers",
 		"defname": "GR_HybridMechanoidGenesGenetrainer"
 	},
 	{
 		"abr": "hybridmuffalogenesgenetrainer",
-		"price": 167,
+		"price": -10,
 		"category": "Genetrainers",
 		"defname": "GR_HybridMuffaloGenesGenetrainer"
 	},
 	{
 		"abr": "hybridreptilegenesgenetrainer",
-		"price": 167,
+		"price": -10,
 		"category": "Genetrainers",
 		"defname": "GR_HybridReptileGenesGenetrainer"
 	},
 	{
 		"abr": "hybridrodentgenesgenetrainer",
-		"price": 167,
+		"price": -10,
 		"category": "Genetrainers",
 		"defname": "GR_HybridRodentGenesGenetrainer"
 	},
 	{
 		"abr": "hybridthrumbogenesgenetrainer",
-		"price": 167,
+		"price": -10,
 		"category": "Genetrainers",
 		"defname": "GR_HybridThrumboGenesGenetrainer"
 	},
 	{
 		"abr": "hybridwolfgenesgenetrainer",
-		"price": 167,
+		"price": -10,
 		"category": "Genetrainers",
 		"defname": "GR_HybridWolfGenesGenetrainer"
 	},
@@ -6746,7 +6746,7 @@
 	},
 	{
 		"abr": "hyenameat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AEXP_Hyena"
 	},
@@ -6758,7 +6758,7 @@
 	},
 	{
 		"abr": "hyperweave",
-		"price": 23,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "Hyperweave"
 	},
@@ -6788,13 +6788,13 @@
 	},
 	{
 		"abr": "ibexmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Ibex"
 	},
 	{
 		"abr": "ibexwool",
-		"price": 3,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "KKAO_WoolIbex"
 	},
@@ -6848,7 +6848,7 @@
 	},
 	{
 		"abr": "igaegiswall",
-		"price": 20,
+		"price": -10,
 		"category": "Misc",
 		"defname": "O21_ImperiumAegis"
 	},
@@ -6872,13 +6872,13 @@
 	},
 	{
 		"abr": "iguanameat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Iguana"
 	},
 	{
 		"abr": "iguanaparagonserum",
-		"price": 17,
+		"price": -10,
 		"category": "Paragon serums",
 		"defname": "GR_IguanaSerum"
 	},
@@ -6932,37 +6932,37 @@
 	},
 	{
 		"abr": "imperialbunker(tier1,large)",
-		"price": 808,
+		"price": -10,
 		"category": "Misc",
 		"defname": "O21_Bunker_Tier1_Large"
 	},
 	{
 		"abr": "imperialbunker(tier1,medium)",
-		"price": 248,
+		"price": -10,
 		"category": "Misc",
 		"defname": "O21_Bunker_Tier1_Medium"
 	},
 	{
 		"abr": "imperialbunker(tier1,small)",
-		"price": 106,
+		"price": -10,
 		"category": "Misc",
 		"defname": "O21_Bunker_Tier1_Small"
 	},
 	{
 		"abr": "imperialbunker(tier2,large)",
-		"price": 1350,
+		"price": -10,
 		"category": "Misc",
 		"defname": "O21_Bunker_Tier2_Large"
 	},
 	{
 		"abr": "imperialbunker(tier2,small)",
-		"price": 174,
+		"price": -10,
 		"category": "Misc",
 		"defname": "O21_Bunker_Tier2_Small"
 	},
 	{
 		"abr": "imperialbunker(tier3,large)",
-		"price": 1358,
+		"price": -10,
 		"category": "Misc",
 		"defname": "O21_Bunker_Tier3_Large"
 	},
@@ -7034,7 +7034,7 @@
 	},
 	{
 		"abr": "infectedaerofleetmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AA_InfectedAerofleet"
 	},
@@ -7046,85 +7046,85 @@
 	},
 	{
 		"abr": "insectchitin",
-		"price": 5,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Chitin"
 	},
 	{
 		"abr": "insectjelly",
-		"price": 13,
+		"price": -10,
 		"category": "Raw animal products",
 		"defname": "InsectJelly"
 	},
 	{
 		"abr": "insectmeat",
-		"price": 1,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Megaspider"
 	},
 	{
 		"abr": "insectmeat",
-		"price": 1,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_CaveBeetleKing"
 	},
 	{
 		"abr": "insectoid/bearincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_BearscarabIncubator"
 	},
 	{
 		"abr": "insectoid/boomalopeincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_BoombeetleIncubator"
 	},
 	{
 		"abr": "insectoid/catincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_SpidercatIncubator"
 	},
 	{
 		"abr": "insectoid/chickenincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_ChickenspiderIncubator"
 	},
 	{
 		"abr": "insectoid/muffaloincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_MuffalopedeIncubator"
 	},
 	{
 		"abr": "insectoid/thrumboincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_ThrumbospiderIncubator"
 	},
 	{
 		"abr": "insectoid/wolfincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_WolfscarabIncubator"
 	},
 	{
 		"abr": "insectoidgeneticmaterial",
-		"price": 75,
+		"price": -10,
 		"category": "Genetic materials",
 		"defname": "GR_InsectoidGenetic"
 	},
 	{
 		"abr": "interactivetable(1x1)",
-		"price": 500,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Table_interactive_1x1c"
 	},
 	{
 		"abr": "interactivetable(2x2)",
-		"price": 925,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Table_interactive_2x2c"
 	},
@@ -7136,7 +7136,7 @@
 	},
 	{
 		"abr": "ironchitin",
-		"price": 5,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_IronChitin"
 	},
@@ -7166,7 +7166,7 @@
 	},
 	{
 		"abr": "ironhuskbeetlemeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AA_IronhuskBeetle"
 	},
@@ -7190,7 +7190,7 @@
 	},
 	{
 		"abr": "jaildoor",
-		"price": 542,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "PH_DoorJail"
 	},
@@ -7220,13 +7220,13 @@
 	},
 	{
 		"abr": "jellyfungusmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "AB_JellyfungusMeat"
 	},
 	{
 		"abr": "jellyfungusmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AB_Jellyfungus"
 	},
@@ -7268,7 +7268,7 @@
 	},
 	{
 		"abr": "juniperberries",
-		"price": 2,
+		"price": -10,
 		"category": "Raw fruits",
 		"defname": "RC2_RawJuniperBerries"
 	},
@@ -7328,13 +7328,13 @@
 	},
 	{
 		"abr": "knarlocleather",
-		"price": 13,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Knarloc"
 	},
 	{
 		"abr": "knarlocmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Knarloc"
 	},
@@ -7442,7 +7442,7 @@
 	},
 	{
 		"abr": "krootarmor",
-		"price": 725,
+		"price": -10,
 		"category": "Tau",
 		"defname": "KrootHeavyArmour"
 	},
@@ -7454,7 +7454,7 @@
 	},
 	{
 		"abr": "krootcloak",
-		"price": 315,
+		"price": -10,
 		"category": "Tau",
 		"defname": "KrootCloak"
 	},
@@ -7472,31 +7472,31 @@
 	},
 	{
 		"abr": "kroothoundleather",
-		"price": 5,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_KrootHound"
 	},
 	{
 		"abr": "kroothoundmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_KrootHound"
 	},
 	{
 		"abr": "krootleather",
-		"price": 9,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Kroot"
 	},
 	{
 		"abr": "krootleathers",
-		"price": 211,
+		"price": -10,
 		"category": "Tau",
 		"defname": "KrootLeathers"
 	},
 	{
 		"abr": "krootmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Alien_Kroot"
 	},
@@ -7508,13 +7508,13 @@
 	},
 	{
 		"abr": "kroottrustedarmor(sa'cea)",
-		"price": 3333,
+		"price": -10,
 		"category": "Tau",
 		"defname": "KrootTrustedArmourSacea"
 	},
 	{
 		"abr": "kroottrustedarmor(t'au)",
-		"price": 3333,
+		"price": -10,
 		"category": "Tau",
 		"defname": "KrootTrustedArmour"
 	},
@@ -7532,7 +7532,7 @@
 	},
 	{
 		"abr": "kumismust",
-		"price": 4,
+		"price": -10,
 		"category": "Alcohol precursors",
 		"defname": "RC2_KumisMust"
 	},
@@ -7562,7 +7562,7 @@
 	},
 	{
 		"abr": "labradorretrievermeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_LabradorRetriever"
 	},
@@ -7592,37 +7592,37 @@
 	},
 	{
 		"abr": "largedoormat",
-		"price": 20,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "DoorMatBigLeather"
 	},
 	{
 		"abr": "largedoormat(blue)",
-		"price": 20,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "DoorMatBigBlue"
 	},
 	{
 		"abr": "largedoormat(green)",
-		"price": 20,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "DoorMatBigGreen"
 	},
 	{
 		"abr": "largedoormat(orange)",
-		"price": 20,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "DoorMatBigOrange"
 	},
 	{
 		"abr": "largedoormat(red)",
-		"price": 20,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "DoorMatBigRed"
 	},
 	{
 		"abr": "largedoormat(teal)",
-		"price": 20,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "DoorMatBigTeal"
 	},
@@ -7634,31 +7634,31 @@
 	},
 	{
 		"abr": "largegaussgenerator(blue)",
-		"price": 5858,
+		"price": -10,
 		"category": "Misc",
 		"defname": "GaussGenerator_B_LargeBlue"
 	},
 	{
 		"abr": "largegaussgenerator(green)",
-		"price": 5858,
+		"price": -10,
 		"category": "Misc",
 		"defname": "GaussGenerator_B_Large"
 	},
 	{
 		"abr": "largegaussgenerator(orange)",
-		"price": 5858,
+		"price": -10,
 		"category": "Misc",
 		"defname": "GaussGenerator_B_LargeOrange"
 	},
 	{
 		"abr": "largeimperialgenerator",
-		"price": 3933,
+		"price": -10,
 		"category": "Misc",
 		"defname": "O21_ImpGenerator_B_Large"
 	},
 	{
 		"abr": "largeorkgenerator",
-		"price": 1525,
+		"price": -10,
 		"category": "Misc",
 		"defname": "OrkGenerator_B_Large"
 	},
@@ -7676,7 +7676,7 @@
 	},
 	{
 		"abr": "largeshieldgenerator",
-		"price": 7458,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VFES_ShieldGenerator_Large"
 	},
@@ -7694,7 +7694,7 @@
 	},
 	{
 		"abr": "largetaugenerator",
-		"price": 1525,
+		"price": -10,
 		"category": "Misc",
 		"defname": "TauGenerator_B_Large"
 	},
@@ -7742,19 +7742,19 @@
 	},
 	{
 		"abr": "lightgaussturret(blue)",
-		"price": 3883,
+		"price": -10,
 		"category": "Misc",
 		"defname": "O21_Turret_NecronBlue_GaussLight"
 	},
 	{
 		"abr": "lightgaussturret(green)",
-		"price": 3883,
+		"price": -10,
 		"category": "Misc",
 		"defname": "O21_Turret_NecronGreen_GaussLight"
 	},
 	{
 		"abr": "lightgaussturret(orange)",
-		"price": 3883,
+		"price": -10,
 		"category": "Misc",
 		"defname": "O21_Turret_NecronOrange_GaussLight"
 	},
@@ -7784,7 +7784,7 @@
 	},
 	{
 		"abr": "lightleather",
-		"price": 3,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Light"
 	},
@@ -7796,37 +7796,37 @@
 	},
 	{
 		"abr": "linkeddoormat",
-		"price": 8,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "DoorMatLinkedLeather"
 	},
 	{
 		"abr": "linkeddoormat(blue)",
-		"price": 8,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "DoorMatLinkedBlue"
 	},
 	{
 		"abr": "linkeddoormat(green)",
-		"price": 8,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "DoorMatLinkedGreen"
 	},
 	{
 		"abr": "linkeddoormat(orange)",
-		"price": 8,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "DoorMatLinkedOrange"
 	},
 	{
 		"abr": "linkeddoormat(red)",
-		"price": 8,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "DoorMatLinkedRed"
 	},
 	{
 		"abr": "linkeddoormat(teal)",
-		"price": 8,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "DoorMatLinkedTeal"
 	},
@@ -7838,13 +7838,13 @@
 	},
 	{
 		"abr": "lionmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AEXP_Lion"
 	},
 	{
 		"abr": "lionpelt",
-		"price": 9,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "AEXP_Leather_Lion"
 	},
@@ -7868,7 +7868,7 @@
 	},
 	{
 		"abr": "lizardskin",
-		"price": 3,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Lizard"
 	},
@@ -7892,7 +7892,7 @@
 	},
 	{
 		"abr": "lockjawmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AA_Lockjaw"
 	},
@@ -7922,7 +7922,7 @@
 	},
 	{
 		"abr": "longrangemissileturret",
-		"price": 29100,
+		"price": -10,
 		"category": "Security",
 		"defname": "MissileTurret"
 	},
@@ -7988,7 +7988,7 @@
 	},
 	{
 		"abr": "lynxmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Lynx"
 	},
@@ -8054,7 +8054,7 @@
 	},
 	{
 		"abr": "mainbattlecannonemplacement",
-		"price": 10825,
+		"price": -10,
 		"category": "Misc",
 		"defname": "IGStationaryMBC"
 	},
@@ -8066,13 +8066,13 @@
 	},
 	{
 		"abr": "mainecoonmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AEXP_CatMaineCoon"
 	},
 	{
 		"abr": "makeshiftexplosive",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "rxExplosivePouchPlaced"
 	},
@@ -8114,7 +8114,7 @@
 	},
 	{
 		"abr": "manualdetonator",
-		"price": 131,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "rxDetonatorManual"
 	},
@@ -8132,13 +8132,13 @@
 	},
 	{
 		"abr": "marineboots",
-		"price": 850,
+		"price": -10,
 		"category": "Handwear and footwear",
 		"defname": "VAE_Footwear_MarineBoots"
 	},
 	{
 		"abr": "marinegloves",
-		"price": 733,
+		"price": -10,
 		"category": "Handwear and footwear",
 		"defname": "VAE_Handwear_MarineGloves"
 	},
@@ -8162,13 +8162,13 @@
 	},
 	{
 		"abr": "massgrave",
-		"price": 8,
+		"price": -10,
 		"category": "Misc",
 		"defname": "MassGrave"
 	},
 	{
 		"abr": "massgrave",
-		"price": 8,
+		"price": -10,
 		"category": "Misc",
 		"defname": "MassGraveAlt"
 	},
@@ -8216,7 +8216,7 @@
 	},
 	{
 		"abr": "meadowavemeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AA_MeadowAve"
 	},
@@ -8246,7 +8246,7 @@
 	},
 	{
 		"abr": "mechabearmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_GR_Mechabear"
 	},
@@ -8258,7 +8258,7 @@
 	},
 	{
 		"abr": "mechacatmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_GR_Mechacat"
 	},
@@ -8270,7 +8270,7 @@
 	},
 	{
 		"abr": "mecha-chickenmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_GR_Mechachicken"
 	},
@@ -8282,7 +8282,7 @@
 	},
 	{
 		"abr": "mechalopemeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_GR_Mechalope"
 	},
@@ -8294,7 +8294,7 @@
 	},
 	{
 		"abr": "mecha-muffalomeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_GR_Mechamuffalo"
 	},
@@ -8312,67 +8312,67 @@
 	},
 	{
 		"abr": "mechanoid/bearincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_MechabearIncubator"
 	},
 	{
 		"abr": "mechanoid/boomalopeincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_MechalopeIncubator"
 	},
 	{
 		"abr": "mechanoid/catincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_MechacatIncubator"
 	},
 	{
 		"abr": "mechanoid/chickenincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_MechachickenIncubator"
 	},
 	{
 		"abr": "mechanoid/insectoidincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_MechaspiderIncubator"
 	},
 	{
 		"abr": "mechanoid/muffaloincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_MechamuffaloIncubator"
 	},
 	{
 		"abr": "mechanoid/reptilianincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_MechaturtleIncubator"
 	},
 	{
 		"abr": "mechanoid/rodentincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_MecharatIncubator"
 	},
 	{
 		"abr": "mechanoid/thrumboincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_MechathrumboIncubator"
 	},
 	{
 		"abr": "mechanoid/wolfincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_MechawolfIncubator"
 	},
 	{
 		"abr": "mechanoidactivecomponents",
-		"price": 167,
+		"price": -10,
 		"category": "Genetic materials",
 		"defname": "GR_MechanoidGenetic"
 	},
@@ -8390,7 +8390,7 @@
 	},
 	{
 		"abr": "mechanoidmilk",
-		"price": 25,
+		"price": -10,
 		"category": "Raw animal products",
 		"defname": "GR_MechaMilk"
 	},
@@ -8402,7 +8402,7 @@
 	},
 	{
 		"abr": "mechanoidwool",
-		"price": 25,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "GR_MechaWool"
 	},
@@ -8414,7 +8414,7 @@
 	},
 	{
 		"abr": "mecha-ratmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_GR_Mecharat"
 	},
@@ -8426,7 +8426,7 @@
 	},
 	{
 		"abr": "mechaspidermeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_GR_Mechaspider"
 	},
@@ -8438,7 +8438,7 @@
 	},
 	{
 		"abr": "mechathrumbomeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_GR_Mechathrumbo"
 	},
@@ -8450,7 +8450,7 @@
 	},
 	{
 		"abr": "mechaturtlemeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_GR_Mechaturtle"
 	},
@@ -8462,7 +8462,7 @@
 	},
 	{
 		"abr": "mechawolfmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_GR_Mechawolf"
 	},
@@ -8516,31 +8516,31 @@
 	},
 	{
 		"abr": "mediumdoormat(blue)",
-		"price": 13,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "DoorMatMediumBlue"
 	},
 	{
 		"abr": "mediumdoormat(green)",
-		"price": 13,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "DoorMatMediumGreen"
 	},
 	{
 		"abr": "mediumdoormat(orange)",
-		"price": 13,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "DoorMatMediumOrange"
 	},
 	{
 		"abr": "mediumdoormat(red)",
-		"price": 13,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "DoorMatMediumRed"
 	},
 	{
 		"abr": "mediumdoormat(teal)",
-		"price": 13,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "DoorMatMediumTeal"
 	},
@@ -8600,13 +8600,13 @@
 	},
 	{
 		"abr": "megaslothmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Megasloth"
 	},
 	{
 		"abr": "megaslothwool",
-		"price": 4,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "WoolMegasloth"
 	},
@@ -8618,7 +8618,7 @@
 	},
 	{
 		"abr": "melons",
-		"price": 2,
+		"price": -10,
 		"category": "Raw fruits",
 		"defname": "RC2_RawMelons"
 	},
@@ -8654,7 +8654,7 @@
 	},
 	{
 		"abr": "milk",
-		"price": 5,
+		"price": -10,
 		"category": "Raw animal products",
 		"defname": "Milk"
 	},
@@ -8672,7 +8672,7 @@
 	},
 	{
 		"abr": "miniquarry",
-		"price": 260,
+		"price": -10,
 		"category": "Misc",
 		"defname": "QRY_MiniQuarry"
 	},
@@ -8738,25 +8738,25 @@
 	},
 	{
 		"abr": "mobileautocannon",
-		"price": 2908,
+		"price": -10,
 		"category": "Security",
 		"defname": "O21_Turret_ImpQuadpod_Autocannon"
 	},
 	{
 		"abr": "mobileheavybolter",
-		"price": 2908,
+		"price": -10,
 		"category": "Security",
 		"defname": "O21_Turret_ImpQuadpod_Bolter"
 	},
 	{
 		"abr": "mobilelascannon",
-		"price": 2908,
+		"price": -10,
 		"category": "Security",
 		"defname": "O21_Turret_ImpQuadpod_Lascannon"
 	},
 	{
 		"abr": "mobilemisslelauncher",
-		"price": 2908,
+		"price": -10,
 		"category": "Security",
 		"defname": "O21_Turret_ImpQuadpod_Missile"
 	},
@@ -8768,7 +8768,7 @@
 	},
 	{
 		"abr": "modernlamp",
-		"price": 129,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Light_ModernLamp"
 	},
@@ -8798,7 +8798,7 @@
 	},
 	{
 		"abr": "monkeymeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Monkey"
 	},
@@ -8810,7 +8810,7 @@
 	},
 	{
 		"abr": "moonshineprecursor",
-		"price": 4,
+		"price": -10,
 		"category": "Alcohol precursors",
 		"defname": "RC2_MoonshinePrecursor"
 	},
@@ -8858,91 +8858,91 @@
 	},
 	{
 		"abr": "muffalo/bearincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_BearMuffaloPre"
 	},
 	{
 		"abr": "muffalo/bearincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_BearMuffaloIncubator"
 	},
 	{
 		"abr": "muffalo/bearincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_MuffaloBearIncubator"
 	},
 	{
 		"abr": "muffalo/catincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_MuffaloCatPre"
 	},
 	{
 		"abr": "muffalo/catincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_MuffaloCatIncubator"
 	},
 	{
 		"abr": "muffalo/catincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_CatMuffaloIncubator"
 	},
 	{
 		"abr": "muffalo/rodentincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_MuffaloRodentPre"
 	},
 	{
 		"abr": "muffalo/rodentincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_MuffaloratIncubator"
 	},
 	{
 		"abr": "muffalo/rodentincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_RatfalloIncubator"
 	},
 	{
 		"abr": "muffalo/wolfincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_MuffaloWolfPre"
 	},
 	{
 		"abr": "muffalo/wolfincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_MuffaloWolfIncubator"
 	},
 	{
 		"abr": "muffalo/wolfincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_WolfMuffaloIncubator"
 	},
 	{
 		"abr": "muffalogeneticmaterial",
-		"price": 17,
+		"price": -10,
 		"category": "Genetic materials",
 		"defname": "GR_MuffaloGenetic"
 	},
 	{
 		"abr": "muffalomeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Muffalo"
 	},
 	{
 		"abr": "muffaloparagonserum",
-		"price": 17,
+		"price": -10,
 		"category": "Paragon serums",
 		"defname": "GR_MuffaloSerum"
 	},
@@ -8960,7 +8960,7 @@
 	},
 	{
 		"abr": "muffalowool",
-		"price": 4,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "WoolMuffalo"
 	},
@@ -8972,7 +8972,7 @@
 	},
 	{
 		"abr": "muffalobearmilk",
-		"price": 7,
+		"price": -10,
 		"category": "Raw animal products",
 		"defname": "GR_MuffalobearMilk"
 	},
@@ -9002,13 +9002,13 @@
 	},
 	{
 		"abr": "muffalochickenmilk",
-		"price": 6,
+		"price": -10,
 		"category": "Raw animal products",
 		"defname": "GR_MuffalochickenMilk"
 	},
 	{
 		"abr": "muffalochickenwool",
-		"price": 4,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "GR_MuffalochickenWool"
 	},
@@ -9026,13 +9026,13 @@
 	},
 	{
 		"abr": "muffalopemilk",
-		"price": 6,
+		"price": -10,
 		"category": "Raw animal products",
 		"defname": "GR_MuffalopeMilk"
 	},
 	{
 		"abr": "muffalopewool",
-		"price": 4,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "GR_MuffalopeWool"
 	},
@@ -9044,7 +9044,7 @@
 	},
 	{
 		"abr": "muffalopedewool",
-		"price": 4,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "GR_MuffalopedeChitin"
 	},
@@ -9062,7 +9062,7 @@
 	},
 	{
 		"abr": "muffalowolfwool",
-		"price": 4,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "GR_MuffalowolfWool"
 	},
@@ -9086,7 +9086,7 @@
 	},
 	{
 		"abr": "munchkincatmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AEXP_CatMunchkin"
 	},
@@ -9110,7 +9110,7 @@
 	},
 	{
 		"abr": "mycoidcolossusmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AA_MycoidColossus"
 	},
@@ -9170,91 +9170,91 @@
 	},
 	{
 		"abr": "necron",
-		"price": 13333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_NecronWarriorBlue"
 	},
 	{
 		"abr": "necron",
-		"price": 13333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_NecronWarrior"
 	},
 	{
 		"abr": "necron",
-		"price": 13333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_NecronWarriorOrange"
 	},
 	{
 		"abr": "necronaegiswall(blue)",
-		"price": 88,
+		"price": -10,
 		"category": "Misc",
 		"defname": "O21_NecronAegis_Blue"
 	},
 	{
 		"abr": "necronaegiswall(green)",
-		"price": 88,
+		"price": -10,
 		"category": "Misc",
 		"defname": "O21_NecronAegis_Green"
 	},
 	{
 		"abr": "necronaegiswall(orange)",
-		"price": 88,
+		"price": -10,
 		"category": "Misc",
 		"defname": "O21_NecronAegis_Orange"
 	},
 	{
 		"abr": "necronbattery(blue)",
-		"price": 2508,
+		"price": -10,
 		"category": "Power",
 		"defname": "O21_NecBatteryBlue"
 	},
 	{
 		"abr": "necronbattery(green)",
-		"price": 2508,
+		"price": -10,
 		"category": "Power",
 		"defname": "O21_NecBattery"
 	},
 	{
 		"abr": "necronbattery(orange)",
-		"price": 2508,
+		"price": -10,
 		"category": "Power",
 		"defname": "O21_NecBatteryOrange"
 	},
 	{
 		"abr": "necrondeathmark",
-		"price": 14167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_NecronDeathmarkBlue"
 	},
 	{
 		"abr": "necrondeathmark",
-		"price": 14167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_NecronDeathmark"
 	},
 	{
 		"abr": "necrondeathmark",
-		"price": 14167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_NecronDeathmarkOrange"
 	},
 	{
 		"abr": "necronfloorlamp(blue)",
-		"price": 333,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "NecronFloorLamp_Blue"
 	},
 	{
 		"abr": "necronfloorlamp(green)",
-		"price": 333,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "NecronFloorLamp_Green"
 	},
 	{
 		"abr": "necronfloorlamp(orange)",
-		"price": 333,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "NecronFloorLamp_Orange"
 	},
@@ -9272,73 +9272,73 @@
 	},
 	{
 		"abr": "necronlord",
-		"price": 16667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_NecronLordBlue"
 	},
 	{
 		"abr": "necronlord",
-		"price": 16667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_NecronLord"
 	},
 	{
 		"abr": "necronlord",
-		"price": 16667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_NecronLordOrange"
 	},
 	{
 		"abr": "necronoverlord",
-		"price": 20000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_NecronOverlordBlue"
 	},
 	{
 		"abr": "necronoverlord",
-		"price": 20000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_NecronOverlord"
 	},
 	{
 		"abr": "necronoverlord",
-		"price": 20000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_NecronOverlordOrange"
 	},
 	{
 		"abr": "necronpariah",
-		"price": 14167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_NecronPariahBlue"
 	},
 	{
 		"abr": "necronpariah",
-		"price": 14167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_NecronPariah"
 	},
 	{
 		"abr": "necronpariah",
-		"price": 14167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_NecronPariahOrange"
 	},
 	{
 		"abr": "necronsarcophagus",
-		"price": 750,
+		"price": -10,
 		"category": "Misc",
 		"defname": "NecronSarcophagus"
 	},
 	{
 		"abr": "necronsarcophagus(blue)",
-		"price": 750,
+		"price": -10,
 		"category": "Misc",
 		"defname": "NecronSarcophagusBlue"
 	},
 	{
 		"abr": "necronsarcophagus(orange)",
-		"price": 750,
+		"price": -10,
 		"category": "Misc",
 		"defname": "NecronSarcophagusOrange"
 	},
@@ -9356,19 +9356,19 @@
 	},
 	{
 		"abr": "necrontomb(blue)",
-		"price": 6275,
+		"price": -10,
 		"category": "Misc",
 		"defname": "NecronTomb_Blue"
 	},
 	{
 		"abr": "necrontomb(green)",
-		"price": 6275,
+		"price": -10,
 		"category": "Misc",
 		"defname": "NecronTomb_Green"
 	},
 	{
 		"abr": "necrontomb(orange)",
-		"price": 6275,
+		"price": -10,
 		"category": "Misc",
 		"defname": "NecronTomb_Orange"
 	},
@@ -9380,7 +9380,7 @@
 	},
 	{
 		"abr": "needlepostmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AA_Needlepost"
 	},
@@ -9392,7 +9392,7 @@
 	},
 	{
 		"abr": "needlerollmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AA_Needleroll"
 	},
@@ -9458,7 +9458,7 @@
 	},
 	{
 		"abr": "nightleather",
-		"price": 6,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Night"
 	},
@@ -9482,7 +9482,7 @@
 	},
 	{
 		"abr": "nightlingmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AA_Nightling"
 	},
@@ -9494,7 +9494,7 @@
 	},
 	{
 		"abr": "nightmulemeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AA_NightMule"
 	},
@@ -9506,13 +9506,13 @@
 	},
 	{
 		"abr": "nightrammeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AA_NightRam"
 	},
 	{
 		"abr": "non-specializedgeneticmaterial",
-		"price": 75,
+		"price": -10,
 		"category": "Genetic materials",
 		"defname": "GR_NonSpecializedGenetic"
 	},
@@ -9524,7 +9524,7 @@
 	},
 	{
 		"abr": "norwegianforestcatmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AEXP_CatNorwegianForest"
 	},
@@ -9560,13 +9560,13 @@
 	},
 	{
 		"abr": "oatwort",
-		"price": 4,
+		"price": -10,
 		"category": "Alcohol precursors",
 		"defname": "RC2_OatWort"
 	},
 	{
 		"abr": "oats",
-		"price": 2,
+		"price": -10,
 		"category": "Raw grains",
 		"defname": "RC2_RawOats"
 	},
@@ -9596,13 +9596,13 @@
 	},
 	{
 		"abr": "ocularfishmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "AB_OcularFishMeat"
 	},
 	{
 		"abr": "ocularfishmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AB_OcularFish"
 	},
@@ -9614,19 +9614,19 @@
 	},
 	{
 		"abr": "ocularjellymeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "AA_OcularJellyMeat"
 	},
 	{
 		"abr": "ocularjellymeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AA_OcularJelly"
 	},
 	{
 		"abr": "ogryn",
-		"price": 10000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_Ogryn"
 	},
@@ -9758,7 +9758,7 @@
 	},
 	{
 		"abr": "onions",
-		"price": 2,
+		"price": -10,
 		"category": "Raw vegetables",
 		"defname": "RC2_RawOnion"
 	},
@@ -9854,7 +9854,7 @@
 	},
 	{
 		"abr": "ork",
-		"price": 1667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_Ork"
 	},
@@ -9926,25 +9926,25 @@
 	},
 	{
 		"abr": "orkheavyarmor(blue)",
-		"price": 1083,
+		"price": -10,
 		"category": "Ork",
 		"defname": "OrkHeavyArmorBlue"
 	},
 	{
 		"abr": "orkheavyarmor(red)",
-		"price": 1083,
+		"price": -10,
 		"category": "Ork",
 		"defname": "OrkHeavyArmorRed"
 	},
 	{
 		"abr": "orkheavyarmor(yellow)",
-		"price": 1083,
+		"price": -10,
 		"category": "Ork",
 		"defname": "OrkHeavyArmorYellow"
 	},
 	{
 		"abr": "orkheavyfatigues",
-		"price": 83,
+		"price": -10,
 		"category": "Ork",
 		"defname": "OrkClothingHeavy"
 	},
@@ -9986,7 +9986,7 @@
 	},
 	{
 		"abr": "orkkommandobandolier",
-		"price": 833,
+		"price": -10,
 		"category": "Ork",
 		"defname": "OrkKommandoBandolier"
 	},
@@ -9998,91 +9998,91 @@
 	},
 	{
 		"abr": "orkleather",
-		"price": 9,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Ork"
 	},
 	{
 		"abr": "orklightarmor(blue)",
-		"price": 833,
+		"price": -10,
 		"category": "Ork",
 		"defname": "OrkLightArmorBlue"
 	},
 	{
 		"abr": "orklightarmor(red)",
-		"price": 833,
+		"price": -10,
 		"category": "Ork",
 		"defname": "OrkLightArmorRed"
 	},
 	{
 		"abr": "orklightarmor(yellow)",
-		"price": 833,
+		"price": -10,
 		"category": "Ork",
 		"defname": "OrkLightArmorYellow"
 	},
 	{
 		"abr": "orklightfatigues",
-		"price": 50,
+		"price": -10,
 		"category": "Ork",
 		"defname": "OrkClothingLight"
 	},
 	{
 		"abr": "orkmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Alien_Ork"
 	},
 	{
 		"abr": "orkmediumarmor(blue)",
-		"price": 1083,
+		"price": -10,
 		"category": "Ork",
 		"defname": "OrkMediumArmorBlue"
 	},
 	{
 		"abr": "orkmediumarmor(red)",
-		"price": 1083,
+		"price": -10,
 		"category": "Ork",
 		"defname": "OrkMediumArmorRed"
 	},
 	{
 		"abr": "orkmediumarmor(yellow)",
-		"price": 1083,
+		"price": -10,
 		"category": "Ork",
 		"defname": "OrkMediumArmorYellow"
 	},
 	{
 		"abr": "orkmediumfatigues",
-		"price": 67,
+		"price": -10,
 		"category": "Ork",
 		"defname": "OrkClothingMedium"
 	},
 	{
 		"abr": "orkrobe",
-		"price": 100,
+		"price": -10,
 		"category": "Ork",
 		"defname": "OrkRobe"
 	},
 	{
 		"abr": "orkoidheart",
-		"price": 17,
+		"price": -10,
 		"category": "Orky Bits",
 		"defname": "O21_OrkoidHeart"
 	},
 	{
 		"abr": "orkoidkidney",
-		"price": 17,
+		"price": -10,
 		"category": "Orky Bits",
 		"defname": "O21_OrkoidKidney"
 	},
 	{
 		"abr": "orkoidliver",
-		"price": 17,
+		"price": -10,
 		"category": "Orky Bits",
 		"defname": "O21_OrkoidLiver"
 	},
 	{
 		"abr": "orkoidlung",
-		"price": 17,
+		"price": -10,
 		"category": "Orky Bits",
 		"defname": "O21_OrkoidLung"
 	},
@@ -10124,139 +10124,139 @@
 	},
 	{
 		"abr": "ostrichparagonserum",
-		"price": 17,
+		"price": -10,
 		"category": "Paragon serums",
 		"defname": "GR_OstrichSerum"
 	},
 	{
 		"abr": "outdoorfloodlights",
-		"price": 375,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "OutdoorFloodLights"
 	},
 	{
 		"abr": "outdoorgroundlamp",
-		"price": 36,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "OutdoorGroundLamp"
 	},
 	{
 		"abr": "outdoorlamp",
-		"price": 65,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "OutdoorLamp"
 	},
 	{
 		"abr": "outdoorlamp",
-		"price": 128,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Light_Streetlamp"
 	},
 	{
 		"abr": "outdoorlamp(blue)",
-		"price": 65,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "OutdoorLamp_Blue"
 	},
 	{
 		"abr": "outdoorlamp(green)",
-		"price": 65,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "OutdoorLamp_Green"
 	},
 	{
 		"abr": "outdoorlamp(orange)",
-		"price": 65,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "OutdoorLamp_Orange"
 	},
 	{
 		"abr": "outdoorlamp(purple)",
-		"price": 65,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "OutdoorLamp_Purple"
 	},
 	{
 		"abr": "outdoorlamp(red)",
-		"price": 65,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "OutdoorLamp_Red"
 	},
 	{
 		"abr": "outdoorsolarlamp",
-		"price": 118,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "OutdoorSolarLamp"
 	},
 	{
 		"abr": "outdoorsolarlamp",
-		"price": 184,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Spacer_OutdoorLamp"
 	},
 	{
 		"abr": "outdoorsolarlamp(blue)",
-		"price": 118,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "OutdoorSolarLamp_Blue"
 	},
 	{
 		"abr": "outdoorsolarlamp(green)",
-		"price": 118,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "OutdoorSolarLamp_Green"
 	},
 	{
 		"abr": "outdoorsolarlamp(orange)",
-		"price": 118,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "OutdoorSolarLamp_Orange"
 	},
 	{
 		"abr": "outdoorsolarlamp(purple)",
-		"price": 118,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "OutdoorSolarLamp_Purple"
 	},
 	{
 		"abr": "outdoorsolarlamp(red)",
-		"price": 118,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "OutdoorSolarLamp_Red"
 	},
 	{
 		"abr": "outdoorstreetlamp",
-		"price": 98,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "OutdoorStreetLamp"
 	},
 	{
 		"abr": "outdoorstreetlamp(blue)",
-		"price": 98,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "OutdoorStreetLamp_Blue"
 	},
 	{
 		"abr": "outdoorstreetlamp(green)",
-		"price": 98,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "OutdoorStreetLamp_Green"
 	},
 	{
 		"abr": "outdoorstreetlamp(orange)",
-		"price": 98,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "OutdoorStreetLamp_Orange"
 	},
 	{
 		"abr": "outdoorstreetlamp(purple)",
-		"price": 98,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "OutdoorStreetLamp_Purple"
 	},
 	{
 		"abr": "outdoorstreetlamp(red)",
-		"price": 98,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "OutdoorStreetLamp_Red"
 	},
@@ -10274,7 +10274,7 @@
 	},
 	{
 		"abr": "overgrowncolossusmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AA_OvergrownColossus"
 	},
@@ -10370,13 +10370,13 @@
 	},
 	{
 		"abr": "panthermeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Panther"
 	},
 	{
 		"abr": "pantherafur",
-		"price": 5,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Panthera"
 	},
@@ -10406,7 +10406,7 @@
 	},
 	{
 		"abr": "paragonbearincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_AlphaBearIncubator"
 	},
@@ -10424,7 +10424,7 @@
 	},
 	{
 		"abr": "paragonboomalopeincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_AlphaBoomalopeIncubator"
 	},
@@ -10448,13 +10448,13 @@
 	},
 	{
 		"abr": "paragonchickenincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_AlphaChickenIncubator"
 	},
 	{
 		"abr": "paragonchickenmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_GR_AlphaChicken"
 	},
@@ -10478,7 +10478,7 @@
 	},
 	{
 		"abr": "paragonemuincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_AlphaEmuIncubator"
 	},
@@ -10490,7 +10490,7 @@
 	},
 	{
 		"abr": "paragonhareincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_AlphaHareIncubator"
 	},
@@ -10514,7 +10514,7 @@
 	},
 	{
 		"abr": "paragoniguanaincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_AlphaIguanaIncubator"
 	},
@@ -10526,7 +10526,7 @@
 	},
 	{
 		"abr": "paragonmuffaloincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_AlphaMuffaloIncubator"
 	},
@@ -10550,7 +10550,7 @@
 	},
 	{
 		"abr": "paragonostrichincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_AlphaOstrichIncubator"
 	},
@@ -10562,7 +10562,7 @@
 	},
 	{
 		"abr": "paragonpigincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_AlphaPigIncubator"
 	},
@@ -10574,13 +10574,13 @@
 	},
 	{
 		"abr": "paragonratincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_AlphaRatIncubator"
 	},
 	{
 		"abr": "paragonrhinoincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_AlphaRhinoIncubator"
 	},
@@ -10622,7 +10622,7 @@
 	},
 	{
 		"abr": "paragontortoiseincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_AlphaTortoiseIncubator"
 	},
@@ -10634,13 +10634,13 @@
 	},
 	{
 		"abr": "paragonwildboarincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_AlphaBoarIncubator"
 	},
 	{
 		"abr": "paragonwolfincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_AlphaWolfIncubator"
 	},
@@ -10664,13 +10664,13 @@
 	},
 	{
 		"abr": "patchleather",
-		"price": 2,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Patch"
 	},
 	{
 		"abr": "peaches",
-		"price": 2,
+		"price": -10,
 		"category": "Raw fruits",
 		"defname": "RC2_RawPeaches"
 	},
@@ -10688,13 +10688,13 @@
 	},
 	{
 		"abr": "pebblemitmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AA_PebbleMit"
 	},
 	{
 		"abr": "pecans",
-		"price": 3,
+		"price": -10,
 		"category": "Raw fruits",
 		"defname": "RC2_RawPecans"
 	},
@@ -10730,7 +10730,7 @@
 	},
 	{
 		"abr": "persiancatmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AEXP_CatPersian"
 	},
@@ -10772,13 +10772,13 @@
 	},
 	{
 		"abr": "pigparagonserum",
-		"price": 17,
+		"price": -10,
 		"category": "Paragon serums",
 		"defname": "GR_PigSerum"
 	},
 	{
 		"abr": "pigskin",
-		"price": 3,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Pig"
 	},
@@ -10790,13 +10790,13 @@
 	},
 	{
 		"abr": "pineapples",
-		"price": 3,
+		"price": -10,
 		"category": "Raw fruits",
 		"defname": "RC2_RawPineapples"
 	},
 	{
 		"abr": "pinkrawfungus",
-		"price": 2,
+		"price": -10,
 		"category": "Raw vegetarian",
 		"defname": "AB_PinkRawFungus"
 	},
@@ -10814,19 +10814,19 @@
 	},
 	{
 		"abr": "plainleather",
-		"price": 3,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Plain"
 	},
 	{
 		"abr": "plantgrowingwalllight",
-		"price": 33,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Lighting_MURUVWallLight"
 	},
 	{
 		"abr": "plantmeat",
-		"price": 2,
+		"price": -10,
 		"category": "Raw vegetarian",
 		"defname": "AA_CactusMeat"
 	},
@@ -10874,13 +10874,13 @@
 	},
 	{
 		"abr": "plateboots",
-		"price": 207,
+		"price": -10,
 		"category": "Handwear and footwear",
 		"defname": "VAE_Footwear_PlateBoots"
 	},
 	{
 		"abr": "plategloves",
-		"price": 173,
+		"price": -10,
 		"category": "Handwear and footwear",
 		"defname": "VAE_Handwear_PlateGloves"
 	},
@@ -10904,7 +10904,7 @@
 	},
 	{
 		"abr": "plums",
-		"price": 2,
+		"price": -10,
 		"category": "Raw fruits",
 		"defname": "RC2_RawPlums"
 	},
@@ -10940,19 +10940,19 @@
 	},
 	{
 		"abr": "polareelchunks",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "AB_PolarEelChunks"
 	},
 	{
 		"abr": "polareelmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AB_PolarEel"
 	},
 	{
 		"abr": "pomegranates",
-		"price": 3,
+		"price": -10,
 		"category": "Raw fruits",
 		"defname": "RC2_RawPomegranates"
 	},
@@ -10964,13 +10964,13 @@
 	},
 	{
 		"abr": "poodlemeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AEXP_Poodle"
 	},
 	{
 		"abr": "pork",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Pig"
 	},
@@ -10988,13 +10988,13 @@
 	},
 	{
 		"abr": "potatomash",
-		"price": 4,
+		"price": -10,
 		"category": "Alcohol precursors",
 		"defname": "RC2_PotatoMash"
 	},
 	{
 		"abr": "potatoes",
-		"price": 2,
+		"price": -10,
 		"category": "Raw vegetarian",
 		"defname": "RawPotatoes"
 	},
@@ -11078,7 +11078,7 @@
 	},
 	{
 		"abr": "proximitysensor",
-		"price": 307,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "rxProximitySensor"
 	},
@@ -11150,7 +11150,7 @@
 	},
 	{
 		"abr": "pugmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AEXP_Pug"
 	},
@@ -11174,13 +11174,13 @@
 	},
 	{
 		"abr": "pumpkinlantern",
-		"price": 77,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "PumpkinLantern"
 	},
 	{
 		"abr": "pumpkins",
-		"price": 3,
+		"price": -10,
 		"category": "Raw fruits",
 		"defname": "RC2_RawPumpkins"
 	},
@@ -11192,7 +11192,7 @@
 	},
 	{
 		"abr": "purplerawfungus",
-		"price": 2,
+		"price": -10,
 		"category": "Raw vegetarian",
 		"defname": "AB_PurpleRawFungus"
 	},
@@ -11210,13 +11210,13 @@
 	},
 	{
 		"abr": "quarry",
-		"price": 617,
+		"price": -10,
 		"category": "Misc",
 		"defname": "QRY_Quarry"
 	},
 	{
 		"abr": "quarryplatform",
-		"price": 168,
+		"price": -10,
 		"category": "Misc",
 		"defname": "QRY_Platform"
 	},
@@ -11246,7 +11246,7 @@
 	},
 	{
 		"abr": "quinoa",
-		"price": 3,
+		"price": -10,
 		"category": "Raw grains",
 		"defname": "RC2_RawQuinoa"
 	},
@@ -11276,7 +11276,7 @@
 	},
 	{
 		"abr": "raccoonmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Raccoon"
 	},
@@ -11312,7 +11312,7 @@
 	},
 	{
 		"abr": "radyakmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AA_Radyak"
 	},
@@ -11342,13 +11342,13 @@
 	},
 	{
 		"abr": "raptorshrimpmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AA_RaptorShrimp"
 	},
 	{
 		"abr": "raptorshrimpplates",
-		"price": 7,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_RaptorPlates"
 	},
@@ -11360,13 +11360,13 @@
 	},
 	{
 		"abr": "ratmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Rat"
 	},
 	{
 		"abr": "ratparagonserum",
-		"price": 17,
+		"price": -10,
 		"category": "Paragon serums",
 		"defname": "GR_RatSerum"
 	},
@@ -11378,7 +11378,7 @@
 	},
 	{
 		"abr": "ratfallomilk",
-		"price": 5,
+		"price": -10,
 		"category": "Raw animal products",
 		"defname": "GR_RatMilk"
 	},
@@ -11408,19 +11408,19 @@
 	},
 	{
 		"abr": "rawfungus",
-		"price": 2,
+		"price": -10,
 		"category": "Raw vegetarian",
 		"defname": "RawFungus"
 	},
 	{
 		"abr": "rawredslime",
-		"price": 1,
+		"price": -10,
 		"category": "Raw vegetarian",
 		"defname": "AB_RawRedSlime"
 	},
 	{
 		"abr": "rawslime",
-		"price": 1,
+		"price": -10,
 		"category": "Raw vegetarian",
 		"defname": "AB_RawSlime"
 	},
@@ -11498,7 +11498,7 @@
 	},
 	{
 		"abr": "redgoomeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AA_RedGoo"
 	},
@@ -11510,7 +11510,7 @@
 	},
 	{
 		"abr": "redsporemeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AA_RedSpore"
 	},
@@ -11552,13 +11552,13 @@
 	},
 	{
 		"abr": "reinforcedembrasures",
-		"price": 34,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ReinforcedEmbrasures"
 	},
 	{
 		"abr": "reinforcedfireresistantembrasures",
-		"price": 46,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ReinforcedFireResistantEmbrasures"
 	},
@@ -11576,25 +11576,25 @@
 	},
 	{
 		"abr": "reinforcedwall",
-		"price": 52,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Reinforced_WallAT"
 	},
 	{
 		"abr": "remotedetonator",
-		"price": 202,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "rxTableDetonator"
 	},
 	{
 		"abr": "remotedoor(1x1)",
-		"price": 241,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "PH_DoorRemoteSingle"
 	},
 	{
 		"abr": "remotedoor(2x1)",
-		"price": 475,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "PH_DoorRemoteDouble"
 	},
@@ -11642,55 +11642,55 @@
 	},
 	{
 		"abr": "reptile/bearincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_BearodileIncubator"
 	},
 	{
 		"abr": "reptile/boomalopeincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_BoomsnakeIncubator"
 	},
 	{
 		"abr": "reptile/catincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_SnakecatIncubator"
 	},
 	{
 		"abr": "reptile/chickenincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_ChickenlizardIncubator"
 	},
 	{
 		"abr": "reptile/insectoidincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_SpidersnakeIncubator"
 	},
 	{
 		"abr": "reptile/muffaloincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_MuffalokomodoIncubator"
 	},
 	{
 		"abr": "reptile/thrumboincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_ThrumbolizardIncubator"
 	},
 	{
 		"abr": "reptile/wolfincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_WolfsnakeIncubator"
 	},
 	{
 		"abr": "reptiliangeneticmaterial",
-		"price": 75,
+		"price": -10,
 		"category": "Genetic materials",
 		"defname": "GR_ReptilianGenetic"
 	},
@@ -11720,7 +11720,7 @@
 	},
 	{
 		"abr": "rhinoparagonserum",
-		"price": 17,
+		"price": -10,
 		"category": "Paragon serums",
 		"defname": "GR_RhinoSerum"
 	},
@@ -11738,25 +11738,25 @@
 	},
 	{
 		"abr": "rhinocerosleather",
-		"price": 7,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Rhinoceros"
 	},
 	{
 		"abr": "rhinocerosmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Rhinoceros"
 	},
 	{
 		"abr": "rice",
-		"price": 2,
+		"price": -10,
 		"category": "Raw vegetarian",
 		"defname": "RawRice"
 	},
 	{
 		"abr": "ricemash",
-		"price": 4,
+		"price": -10,
 		"category": "Alcohol precursors",
 		"defname": "RC2_RiceMash"
 	},
@@ -11792,7 +11792,7 @@
 	},
 	{
 		"abr": "rodent/leporidgeneticmaterial",
-		"price": 17,
+		"price": -10,
 		"category": "Genetic materials",
 		"defname": "GR_RodentGenetic"
 	},
@@ -11804,7 +11804,7 @@
 	},
 	{
 		"abr": "rosequartzblocks",
-		"price": 8,
+		"price": 58,
 		"category": "Stone blocks",
 		"defname": "GU_BlocksRoseQuartz"
 	},
@@ -11822,7 +11822,7 @@
 	},
 	{
 		"abr": "rottweilermeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AEXP_Rottweiler"
 	},
@@ -11924,7 +11924,7 @@
 	},
 	{
 		"abr": "ruinedgeneticmaterial",
-		"price": 2,
+		"price": -10,
 		"category": "Genetic materials",
 		"defname": "GR_RuinedGenetic"
 	},
@@ -11942,25 +11942,25 @@
 	},
 	{
 		"abr": "sabreautocannon",
-		"price": 3417,
+		"price": -10,
 		"category": "Security",
 		"defname": "IGSabreAutocannon"
 	},
 	{
 		"abr": "sabrebolter",
-		"price": 3417,
+		"price": -10,
 		"category": "Security",
 		"defname": "IGSabreBolter"
 	},
 	{
 		"abr": "sabrelascannon",
-		"price": 3417,
+		"price": -10,
 		"category": "Security",
 		"defname": "IGSabreLascannon"
 	},
 	{
 		"abr": "sabreprojector",
-		"price": 3417,
+		"price": -10,
 		"category": "Security",
 		"defname": "IGSabreProjector"
 	},
@@ -12068,13 +12068,13 @@
 	},
 	{
 		"abr": "sandlionfur",
-		"price": 6,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "AA_SandLion_Leather"
 	},
 	{
 		"abr": "sandlionmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AA_SandLion"
 	},
@@ -12086,7 +12086,7 @@
 	},
 	{
 		"abr": "sandsquidmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AA_SandSquid"
 	},
@@ -12116,19 +12116,19 @@
 	},
 	{
 		"abr": "scarabplatform(blue)",
-		"price": 475,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "O21_ConstructStation_ScarabBlue"
 	},
 	{
 		"abr": "scarabplatform(green)",
-		"price": 475,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "O21_ConstructStation_Scarab"
 	},
 	{
 		"abr": "scarabplatform(orange)",
-		"price": 475,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "O21_ConstructStation_ScarabOrange"
 	},
@@ -12194,7 +12194,7 @@
 	},
 	{
 		"abr": "sduigglestentacles",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Sduiggles"
 	},
@@ -12224,7 +12224,7 @@
 	},
 	{
 		"abr": "seasnakefilet",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Seasnake"
 	},
@@ -12242,13 +12242,13 @@
 	},
 	{
 		"abr": "sentientplantskin",
-		"price": 6,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Cactus"
 	},
 	{
 		"abr": "sentrygun",
-		"price": 1092,
+		"price": -10,
 		"category": "Security",
 		"defname": "VFES_Turret_SentryGun"
 	},
@@ -12284,7 +12284,7 @@
 	},
 	{
 		"abr": "shapedcharge",
-		"price": 525,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "rxMiningChargeShaped"
 	},
@@ -12296,13 +12296,13 @@
 	},
 	{
 		"abr": "sheepmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AEXP_Sheep"
 	},
 	{
 		"abr": "sheepwool",
-		"price": 4,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "AEXP_WoolSheep"
 	},
@@ -12320,7 +12320,7 @@
 	},
 	{
 		"abr": "shelledmashgon",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Mashgon"
 	},
@@ -12350,37 +12350,37 @@
 	},
 	{
 		"abr": "shih-tzumeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AEXP_Shih-Tzu"
 	},
 	{
 		"abr": "shipcomputercore",
-		"price": 9742,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Ship_ComputerCore"
 	},
 	{
 		"abr": "shipcryptosleepcasket",
-		"price": 1725,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Ship_CryptosleepCasket"
 	},
 	{
 		"abr": "shipengine",
-		"price": 5925,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Ship_Engine"
 	},
 	{
 		"abr": "shipreactor",
-		"price": 9067,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Ship_Reactor"
 	},
 	{
 		"abr": "shipstructuralbeam",
-		"price": 1775,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Ship_Beam"
 	},
@@ -12398,7 +12398,7 @@
 	},
 	{
 		"abr": "shockgoatmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AA_ShockGoat"
 	},
@@ -12416,7 +12416,7 @@
 	},
 	{
 		"abr": "shoes",
-		"price": 114,
+		"price": -10,
 		"category": "Handwear and footwear",
 		"defname": "VAE_Footwear_Shoes"
 	},
@@ -12434,7 +12434,7 @@
 	},
 	{
 		"abr": "shortwall",
-		"price": 10,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VFES_ShortWall"
 	},
@@ -12476,13 +12476,13 @@
 	},
 	{
 		"abr": "siamesecatmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AEXP_CatSiamese"
 	},
 	{
 		"abr": "silicon",
-		"price": 2,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "Silicon"
 	},
@@ -12656,31 +12656,31 @@
 	},
 	{
 		"abr": "skylight",
-		"price": 23,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SkyLightA"
 	},
 	{
 		"abr": "skylight1x4",
-		"price": 90,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SkyLightC"
 	},
 	{
 		"abr": "skylight2x2",
-		"price": 90,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SkyLightD"
 	},
 	{
 		"abr": "skylight3x3",
-		"price": 179,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SkyLightB"
 	},
 	{
 		"abr": "slabbed",
-		"price": 111,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Bed_StoneSlab"
 	},
@@ -12722,13 +12722,13 @@
 	},
 	{
 		"abr": "slimefishfillets",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "AB_SlimefishMeat"
 	},
 	{
 		"abr": "slimefishmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AB_Slimefish"
 	},
@@ -12746,7 +12746,7 @@
 	},
 	{
 		"abr": "slurrypedemeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AA_Slurrypede"
 	},
@@ -12764,7 +12764,7 @@
 	},
 	{
 		"abr": "smalleldargenerator",
-		"price": 425,
+		"price": -10,
 		"category": "Misc",
 		"defname": "EldGenerator_A_Small"
 	},
@@ -12776,31 +12776,31 @@
 	},
 	{
 		"abr": "smallgaussgenerator(blue)",
-		"price": 2508,
+		"price": -10,
 		"category": "Misc",
 		"defname": "GaussGenerator_A_SmallBlue"
 	},
 	{
 		"abr": "smallgaussgenerator(green)",
-		"price": 2508,
+		"price": -10,
 		"category": "Misc",
 		"defname": "GaussGenerator_A_Small"
 	},
 	{
 		"abr": "smallgaussgenerator(orange)",
-		"price": 2508,
+		"price": -10,
 		"category": "Misc",
 		"defname": "GaussGenerator_A_SmallOrange"
 	},
 	{
 		"abr": "smallimperialgenerator",
-		"price": 1425,
+		"price": -10,
 		"category": "Misc",
 		"defname": "O21_ImpGenerator_A_Small"
 	},
 	{
 		"abr": "smallorkgenerator",
-		"price": 425,
+		"price": -10,
 		"category": "Misc",
 		"defname": "OrkGenerator_A_Small"
 	},
@@ -12812,19 +12812,19 @@
 	},
 	{
 		"abr": "smallshieldgenerator",
-		"price": 3983,
+		"price": -10,
 		"category": "Security",
 		"defname": "VFES_ShieldGenerator_Small"
 	},
 	{
 		"abr": "smallsolargenerator",
-		"price": 138,
+		"price": -10,
 		"category": "Misc",
 		"defname": "WDSmallSolarGenerator"
 	},
 	{
 		"abr": "smalltaugenerator",
-		"price": 425,
+		"price": -10,
 		"category": "Misc",
 		"defname": "TauGenerator_A_Small"
 	},
@@ -12872,7 +12872,7 @@
 	},
 	{
 		"abr": "snappeas",
-		"price": 2,
+		"price": -10,
 		"category": "Raw vegetables",
 		"defname": "RC2_RawSnapPeas"
 	},
@@ -12914,13 +12914,13 @@
 	},
 	{
 		"abr": "somalicatmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AEXP_CatSomali"
 	},
 	{
 		"abr": "sorghum",
-		"price": 2,
+		"price": -10,
 		"category": "Raw grains",
 		"defname": "RC2_RawSorghum"
 	},
@@ -12938,19 +12938,19 @@
 	},
 	{
 		"abr": "soybeans",
-		"price": 3,
+		"price": -10,
 		"category": "Raw vegetables",
 		"defname": "RC2_RawSoybean"
 	},
 	{
 		"abr": "spacemarine",
-		"price": 13333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_Astartes"
 	},
 	{
 		"abr": "spacemarine",
-		"price": 13333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_Salamander"
 	},
@@ -13070,7 +13070,7 @@
 	},
 	{
 		"abr": "sphynxcatmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AEXP_CatSphynx"
 	},
@@ -13088,13 +13088,13 @@
 	},
 	{
 		"abr": "spiderfishmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AB_Spiderfish"
 	},
 	{
 		"abr": "spiderfishsteak",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "AB_SpiderfishSteak"
 	},
@@ -13124,7 +13124,7 @@
 	},
 	{
 		"abr": "spidersnakesilk",
-		"price": 13,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "GR_SpidersnakeSilk"
 	},
@@ -13148,13 +13148,13 @@
 	},
 	{
 		"abr": "spinyfishchunks",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "AB_SpinyfishChunks"
 	},
 	{
 		"abr": "spinyfishmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AB_Spinyfish"
 	},
@@ -13190,13 +13190,13 @@
 	},
 	{
 		"abr": "squigleather",
-		"price": 9,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Squig"
 	},
 	{
 		"abr": "squigmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_O21_Squig"
 	},
@@ -13220,79 +13220,79 @@
 	},
 	{
 		"abr": "squirrelmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Squirrel"
 	},
 	{
 		"abr": "stabilizinggenes",
-		"price": 67,
+		"price": -10,
 		"category": "Genetic materials",
 		"defname": "GR_StabilizingGenes"
 	},
 	{
 		"abr": "stabilizingserum",
-		"price": 67,
+		"price": -10,
 		"category": "Genetic materials",
 		"defname": "GR_StabilizingSerum"
 	},
 	{
 		"abr": "standinglamp",
-		"price": 65,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "StandingLamp"
 	},
 	{
 		"abr": "standinglamp(aqua)",
-		"price": 49,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "StandingLamp_Aqua"
 	},
 	{
 		"abr": "standinglamp(blue)",
-		"price": 65,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "StandingLamp_Blue"
 	},
 	{
 		"abr": "standinglamp(green)",
-		"price": 65,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "StandingLamp_Green"
 	},
 	{
 		"abr": "standinglamp(lime)",
-		"price": 49,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "StandingLamp_Lime"
 	},
 	{
 		"abr": "standinglamp(magenta)",
-		"price": 49,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "StandingLamp_Magenta"
 	},
 	{
 		"abr": "standinglamp(orange)",
-		"price": 49,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "StandingLamp_Orange"
 	},
 	{
 		"abr": "standinglamp(purple)",
-		"price": 49,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "StandingLamp_Purple"
 	},
 	{
 		"abr": "standinglamp(red)",
-		"price": 65,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "StandingLamp_Red"
 	},
 	{
 		"abr": "standinglamp(yellow)",
-		"price": 49,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "StandingLamp_Yellow"
 	},
@@ -13442,7 +13442,7 @@
 	},
 	{
 		"abr": "sugarbeets",
-		"price": 2,
+		"price": -10,
 		"category": "Raw vegetables",
 		"defname": "RC2_RawSugarBeets"
 	},
@@ -13454,7 +13454,7 @@
 	},
 	{
 		"abr": "sugarcanewort",
-		"price": 4,
+		"price": -10,
 		"category": "Alcohol precursors",
 		"defname": "RC2_SugarcaneWort"
 	},
@@ -13478,7 +13478,7 @@
 	},
 	{
 		"abr": "summitcrabmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AA_SummitCrab"
 	},
@@ -13532,7 +13532,7 @@
 	},
 	{
 		"abr": "synthamide",
-		"price": 9,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "Synthamide"
 	},
@@ -13568,7 +13568,7 @@
 	},
 	{
 		"abr": "syntheticmeat",
-		"price": 2,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_QESynthMeat"
 	},
@@ -13580,7 +13580,7 @@
 	},
 	{
 		"abr": "synthread",
-		"price": 7,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "Synthread"
 	},
@@ -13664,13 +13664,13 @@
 	},
 	{
 		"abr": "tailteethleather",
-		"price": 6,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Tailteeth"
 	},
 	{
 		"abr": "tailteethsteak",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Tailteeth"
 	},
@@ -13688,7 +13688,7 @@
 	},
 	{
 		"abr": "tankmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Race_Tank"
 	},
@@ -13700,31 +13700,31 @@
 	},
 	{
 		"abr": "tarantulaheavybolter",
-		"price": 4117,
+		"price": -10,
 		"category": "Misc",
 		"defname": "IGTarantulaBolter"
 	},
 	{
 		"abr": "tarantulalascannon",
-		"price": 4117,
+		"price": -10,
 		"category": "Misc",
 		"defname": "IGTarantulaLascannon"
 	},
 	{
 		"abr": "tarantulamissleplatform",
-		"price": 2950,
+		"price": -10,
 		"category": "Security",
 		"defname": "IGTarantulaMissile"
 	},
 	{
 		"abr": "tau",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_Tau"
 	},
 	{
 		"abr": "tauaegiswall",
-		"price": 20,
+		"price": -10,
 		"category": "Misc",
 		"defname": "O21_TauAegis"
 	},
@@ -13736,37 +13736,37 @@
 	},
 	{
 		"abr": "taucombatarmor",
-		"price": 3333,
+		"price": -10,
 		"category": "Tau",
 		"defname": "TauCombatArmor"
 	},
 	{
 		"abr": "taucombatarmor(sa'cea)",
-		"price": 3333,
+		"price": -10,
 		"category": "Tau",
 		"defname": "TauCombatArmorSacea"
 	},
 	{
 		"abr": "taucombathelmet",
-		"price": 1667,
+		"price": -10,
 		"category": "Tau",
 		"defname": "TauCombatHelmet"
 	},
 	{
 		"abr": "taucombathelmet(sa'cea)",
-		"price": 1667,
+		"price": -10,
 		"category": "Tau",
 		"defname": "TauCombatHelmetSacea"
 	},
 	{
 		"abr": "taucombathelmetadv.(sa'cea)",
-		"price": 1667,
+		"price": -10,
 		"category": "Tau",
 		"defname": "TauCombatHelmetAdvSacea"
 	},
 	{
 		"abr": "taucombathelmetadv.(t'au)",
-		"price": 1667,
+		"price": -10,
 		"category": "Tau",
 		"defname": "TauCombatHelmetAdv"
 	},
@@ -13784,13 +13784,13 @@
 	},
 	{
 		"abr": "tauleather",
-		"price": 9,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Tau"
 	},
 	{
 		"abr": "taumeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Alien_Tau"
 	},
@@ -13820,13 +13820,13 @@
 	},
 	{
 		"abr": "tauscoutarmor",
-		"price": 2500,
+		"price": -10,
 		"category": "Tau",
 		"defname": "TauScoutArmor"
 	},
 	{
 		"abr": "tauscoutarmor(sa'cea)",
-		"price": 2500,
+		"price": -10,
 		"category": "Tau",
 		"defname": "TauScoutArmorSacea"
 	},
@@ -13862,19 +13862,19 @@
 	},
 	{
 		"abr": "terran",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_GSCultist"
 	},
 	{
 		"abr": "terran",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_Terran"
 	},
 	{
 		"abr": "terranmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Alien_GSCultist"
 	},
@@ -13886,7 +13886,7 @@
 	},
 	{
 		"abr": "tetraslugmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AA_TetraSlug"
 	},
@@ -13934,7 +13934,7 @@
 	},
 	{
 		"abr": "thrumbearwool",
-		"price": 4,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "GR_ThrumbearWool"
 	},
@@ -13946,43 +13946,43 @@
 	},
 	{
 		"abr": "thrumbo/bearincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_ThrumbearIncubator"
 	},
 	{
 		"abr": "thrumbo/boomalopeincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_ThrumbalopeIncubator"
 	},
 	{
 		"abr": "thrumbo/catincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_ThrumbocatIncubator"
 	},
 	{
 		"abr": "thrumbo/chickenincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_ThrumbochickenIncubator"
 	},
 	{
 		"abr": "thrumbo/muffaloincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_ThrumffaloIncubator"
 	},
 	{
 		"abr": "thrumbo/rodentincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_ThrumboratIncubator"
 	},
 	{
 		"abr": "thrumbo/wolfincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_ThrumwolfIncubator"
 	},
@@ -14006,7 +14006,7 @@
 	},
 	{
 		"abr": "thrumbogeneticmaterial",
-		"price": 167,
+		"price": -10,
 		"category": "Genetic materials",
 		"defname": "GR_ThrumboGenetic"
 	},
@@ -14018,7 +14018,7 @@
 	},
 	{
 		"abr": "thrumbomeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Thrumbo"
 	},
@@ -14030,7 +14030,7 @@
 	},
 	{
 		"abr": "thrumbowool",
-		"price": 8,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "KKAO_ThrumboWool"
 	},
@@ -14060,7 +14060,7 @@
 	},
 	{
 		"abr": "thrumbofur",
-		"price": 23,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Thrumbo"
 	},
@@ -14090,13 +14090,13 @@
 	},
 	{
 		"abr": "thrumffalomilk",
-		"price": 10,
+		"price": -10,
 		"category": "Raw animal products",
 		"defname": "GR_ThrumffaloMilk"
 	},
 	{
 		"abr": "thrumffalowool",
-		"price": 4,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "GR_ThrumffaloWool"
 	},
@@ -14156,7 +14156,7 @@
 	},
 	{
 		"abr": "tomatoes",
-		"price": 2,
+		"price": -10,
 		"category": "Raw vegetables",
 		"defname": "RC2_RawTomato"
 	},
@@ -14204,13 +14204,13 @@
 	},
 	{
 		"abr": "tortoisemeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Tortoise"
 	},
 	{
 		"abr": "tortoiseparagonserum",
-		"price": 17,
+		"price": -10,
 		"category": "Paragon serums",
 		"defname": "GR_TortoiseSerum"
 	},
@@ -14234,7 +14234,7 @@
 	},
 	{
 		"abr": "trench",
-		"price": 40,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VFES_Trench"
 	},
@@ -14288,7 +14288,7 @@
 	},
 	{
 		"abr": "truffles",
-		"price": 3,
+		"price": -10,
 		"category": "Raw vegetables",
 		"defname": "RC2_RawTruffles"
 	},
@@ -14330,7 +14330,7 @@
 	},
 	{
 		"abr": "turbochargedcryo-stabilizedengine",
-		"price": 7342,
+		"price": -10,
 		"category": "Misc",
 		"defname": "GR_TurboChargedCryostabilizedEngine"
 	},
@@ -14354,7 +14354,7 @@
 	},
 	{
 		"abr": "turkeymeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Turkey"
 	},
@@ -14372,7 +14372,7 @@
 	},
 	{
 		"abr": "ulthweautarcharmor",
-		"price": 833,
+		"price": -10,
 		"category": "Eldar",
 		"defname": "UlthweAutarchArmor"
 	},
@@ -14384,7 +14384,7 @@
 	},
 	{
 		"abr": "ulthwebansheearmor",
-		"price": 833,
+		"price": -10,
 		"category": "Eldar",
 		"defname": "UlthweBansheeArmor"
 	},
@@ -14396,7 +14396,7 @@
 	},
 	{
 		"abr": "ulthwefarseerarmor",
-		"price": 833,
+		"price": -10,
 		"category": "Eldar",
 		"defname": "UlthweFarseerArmor"
 	},
@@ -14408,7 +14408,7 @@
 	},
 	{
 		"abr": "ulthweguardianarmor",
-		"price": 833,
+		"price": -10,
 		"category": "Eldar",
 		"defname": "UlthweGuardianArmor"
 	},
@@ -14426,7 +14426,7 @@
 	},
 	{
 		"abr": "ulthwerangerarmor",
-		"price": 833,
+		"price": -10,
 		"category": "Eldar",
 		"defname": "UlthweRangerArmor"
 	},
@@ -14516,25 +14516,25 @@
 	},
 	{
 		"abr": "uncuredsynthamidecomposite",
-		"price": 3,
+		"price": -10,
 		"category": "Synthamide",
 		"defname": "UncuredComposite"
 	},
 	{
 		"abr": "unrefineduraniumcrystals",
-		"price": 108,
+		"price": -10,
 		"category": "Raw resources",
 		"defname": "AA_UraniumCrystals"
 	},
 	{
 		"abr": "uranium",
-		"price": 10,
+		"price": -10,
 		"category": "Raw resources",
 		"defname": "Uranium"
 	},
 	{
 		"abr": "uraniumslugturret",
-		"price": 2408,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Turret_Sniper"
 	},
@@ -14612,7 +14612,7 @@
 	},
 	{
 		"abr": "venison",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Deer"
 	},
@@ -14624,31 +14624,31 @@
 	},
 	{
 		"abr": "vespid",
-		"price": 5000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_Vespid"
 	},
 	{
 		"abr": "vespidcombatarmor(sa'cea)",
-		"price": 3333,
+		"price": -10,
 		"category": "Tau",
 		"defname": "VespidArmourSacea"
 	},
 	{
 		"abr": "vespidcombatarmor(t'au)",
-		"price": 3333,
+		"price": -10,
 		"category": "Tau",
 		"defname": "VespidArmour"
 	},
 	{
 		"abr": "vespidmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Alien_Vespid"
 	},
 	{
 		"abr": "vibrocannonturret",
-		"price": 8308,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ELDVibrocannon"
 	},
@@ -14702,13 +14702,13 @@
 	},
 	{
 		"abr": "wallbluelight",
-		"price": 550,
+		"price": -10,
 		"category": "Misc",
 		"defname": "WallLight_Blue"
 	},
 	{
 		"abr": "wallcyanlight",
-		"price": 550,
+		"price": -10,
 		"category": "Misc",
 		"defname": "WallLight_Cyan"
 	},
@@ -14720,115 +14720,115 @@
 	},
 	{
 		"abr": "wallgreenlight",
-		"price": 550,
+		"price": -10,
 		"category": "Misc",
 		"defname": "WallLight_Green"
 	},
 	{
 		"abr": "walllight",
-		"price": 64,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "GLWallLamp"
 	},
 	{
 		"abr": "walllight",
-		"price": 16,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLightVII"
 	},
 	{
 		"abr": "walllight",
-		"price": 550,
+		"price": -10,
 		"category": "Misc",
 		"defname": "WallLight_White"
 	},
 	{
 		"abr": "walllight((blue)old)",
-		"price": 16,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLightBlue"
 	},
 	{
 		"abr": "walllight((green)old)",
-		"price": 16,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLightGreen"
 	},
 	{
 		"abr": "walllight((red)old)",
-		"price": 16,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLightRed"
 	},
 	{
 		"abr": "walllight(blue)",
-		"price": 64,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "GLWallLamp_Blue"
 	},
 	{
 		"abr": "walllight(blue)",
-		"price": 16,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLightBlueVII"
 	},
 	{
 		"abr": "walllight(green)",
-		"price": 64,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "GLWallLamp_Green"
 	},
 	{
 		"abr": "walllight(green)",
-		"price": 16,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLightGreenVII"
 	},
 	{
 		"abr": "walllight(old)",
-		"price": 16,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLight"
 	},
 	{
 		"abr": "walllight(orange)",
-		"price": 64,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "GLWallLamp_Orange"
 	},
 	{
 		"abr": "walllight(red)",
-		"price": 64,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "GLWallLamp_Red"
 	},
 	{
 		"abr": "walllight(red)",
-		"price": 16,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLightRedVII"
 	},
 	{
 		"abr": "walllight(violet)",
-		"price": 64,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "GLWallLamp_Violet"
 	},
 	{
 		"abr": "walllight(yellow)",
-		"price": 64,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "GLWallLamp_Yellow"
 	},
 	{
 		"abr": "wallpurplelight",
-		"price": 550,
+		"price": -10,
 		"category": "Misc",
 		"defname": "WallLight_Purple"
 	},
 	{
 		"abr": "wallredlight",
-		"price": 550,
+		"price": -10,
 		"category": "Misc",
 		"defname": "WallLight_Red"
 	},
@@ -14846,13 +14846,13 @@
 	},
 	{
 		"abr": "wallwindow",
-		"price": 550,
+		"price": -10,
 		"category": "Misc",
 		"defname": "WallWindow"
 	},
 	{
 		"abr": "wallyellowlight",
-		"price": 550,
+		"price": -10,
 		"category": "Misc",
 		"defname": "WallLight_Yellow"
 	},
@@ -14888,7 +14888,7 @@
 	},
 	{
 		"abr": "wargmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Warg"
 	},
@@ -14948,7 +14948,7 @@
 	},
 	{
 		"abr": "weirdmilk",
-		"price": 5,
+		"price": -10,
 		"category": "Raw animal products",
 		"defname": "GR_WeirdMilk"
 	},
@@ -14960,7 +14960,7 @@
 	},
 	{
 		"abr": "welshterriermeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AEXP_WelshTerrier"
 	},
@@ -14972,31 +14972,31 @@
 	},
 	{
 		"abr": "wheatwort",
-		"price": 4,
+		"price": -10,
 		"category": "Alcohol precursors",
 		"defname": "RC2_WheatWort"
 	},
 	{
 		"abr": "wheeledautocannon",
-		"price": 2908,
+		"price": -10,
 		"category": "Security",
 		"defname": "O21_Turret_ImpWheeled_Autocannon"
 	},
 	{
 		"abr": "wheeledheavybolter",
-		"price": 2908,
+		"price": -10,
 		"category": "Security",
 		"defname": "O21_Turret_ImpWheeled_HeavyBolter"
 	},
 	{
 		"abr": "wheeledlascannon",
-		"price": 2908,
+		"price": -10,
 		"category": "Security",
 		"defname": "O21_Turret_ImpWheeled_Lascannon"
 	},
 	{
 		"abr": "wheeledstubber",
-		"price": 2908,
+		"price": -10,
 		"category": "Security",
 		"defname": "O21_Turret_ImpWheeled_Stubber"
 	},
@@ -15044,7 +15044,7 @@
 	},
 	{
 		"abr": "wildebeestpelt",
-		"price": 5,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "AEXP_Leather_Wildebeest"
 	},
@@ -15056,7 +15056,7 @@
 	},
 	{
 		"abr": "wildpawnmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AA_Wildpawn"
 	},
@@ -15074,7 +15074,7 @@
 	},
 	{
 		"abr": "wildpodmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AA_Wildpod"
 	},
@@ -15116,55 +15116,55 @@
 	},
 	{
 		"abr": "wolf/bearincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_BearWolfPre"
 	},
 	{
 		"abr": "wolf/bearincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_BearWolfIncubator"
 	},
 	{
 		"abr": "wolf/bearincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_WolfBearIncubator"
 	},
 	{
 		"abr": "wolf/catincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_WolfCatPre"
 	},
 	{
 		"abr": "wolf/catincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_WolfcatIncubator"
 	},
 	{
 		"abr": "wolf/catincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_CatwolfIncubator"
 	},
 	{
 		"abr": "wolf/rodentincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_WolfRodentPre"
 	},
 	{
 		"abr": "wolf/rodentincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_WolfbeaverIncubator"
 	},
 	{
 		"abr": "wolf/rodentincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_BeaverwolfIncubator"
 	},
@@ -15176,13 +15176,13 @@
 	},
 	{
 		"abr": "wolfgeneticmaterial",
-		"price": 17,
+		"price": -10,
 		"category": "Genetic materials",
 		"defname": "GR_WolfGenetic"
 	},
 	{
 		"abr": "wolfparagonserum",
-		"price": 17,
+		"price": -10,
 		"category": "Paragon serums",
 		"defname": "GR_WolfSerum"
 	},
@@ -15260,19 +15260,19 @@
 	},
 	{
 		"abr": "wolffalomilk",
-		"price": 2,
+		"price": -10,
 		"category": "Raw animal products",
 		"defname": "GR_WolffaloMilk"
 	},
 	{
 		"abr": "wolffalowool",
-		"price": 4,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "GR_WolffaloWool"
 	},
 	{
 		"abr": "wolfmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_Wolf_Timber"
 	},
@@ -15284,7 +15284,7 @@
 	},
 	{
 		"abr": "wolfskin",
-		"price": 5,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Wolf"
 	},
@@ -15296,7 +15296,7 @@
 	},
 	{
 		"abr": "wolfsnakeskin",
-		"price": 8,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "GR_WolfsnakeSkin"
 	},
@@ -15320,7 +15320,7 @@
 	},
 	{
 		"abr": "wort",
-		"price": 4,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "Wort"
 	},
@@ -15356,13 +15356,13 @@
 	},
 	{
 		"abr": "yakwool",
-		"price": 9,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "AEXP_WoolYak"
 	},
 	{
 		"abr": "yams",
-		"price": 2,
+		"price": -10,
 		"category": "Raw vegetables",
 		"defname": "RC2_RawYams"
 	},
@@ -15380,7 +15380,7 @@
 	},
 	{
 		"abr": "yorkshireterriermeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_YorkshireTerrier"
 	},
@@ -15518,7 +15518,7 @@
 	},
 	{
 		"abr": "amurleopardmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_ACPAmurLeopard"
 	},
@@ -15542,7 +15542,7 @@
 	},
 	{
 		"abr": "androidupgradestation",
-		"price": 1142,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "AndroidOperationBed"
 	},
@@ -15554,7 +15554,7 @@
 	},
 	{
 		"abr": "angorawool",
-		"price": 7,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "ACPAngoraWool"
 	},
@@ -15608,19 +15608,19 @@
 	},
 	{
 		"abr": "barfence",
-		"price": 8,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Bar"
 	},
 	{
 		"abr": "bargate(horizontal)",
-		"price": 8,
+		"price": -10,
 		"category": "Misc",
 		"defname": "BarGateHori"
 	},
 	{
 		"abr": "bargate(vertical)",
-		"price": 8,
+		"price": -10,
 		"category": "Misc",
 		"defname": "BarGateVerti"
 	},
@@ -15686,7 +15686,7 @@
 	},
 	{
 		"abr": "blubberymeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_ACPHippopotamus"
 	},
@@ -15698,19 +15698,19 @@
 	},
 	{
 		"abr": "brickfence(short)",
-		"price": 8,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ShortBrick"
 	},
 	{
 		"abr": "brickfence(tall)",
-		"price": 11,
+		"price": -10,
 		"category": "Misc",
 		"defname": "TallBrick"
 	},
 	{
 		"abr": "brownfur",
-		"price": 4,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Brownfur"
 	},
@@ -15722,19 +15722,19 @@
 	},
 	{
 		"abr": "chainlinkfence",
-		"price": 8,
+		"price": -10,
 		"category": "Misc",
 		"defname": "TallChainLink"
 	},
 	{
 		"abr": "chainlinkgate(horizontal)",
-		"price": 8,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ChainlinkGateHori"
 	},
 	{
 		"abr": "chainlinkgate(vertical)",
-		"price": 8,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ChainlinkGateVerti"
 	},
@@ -15752,7 +15752,7 @@
 	},
 	{
 		"abr": "cheetahmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_ACPCheetah"
 	},
@@ -15776,19 +15776,19 @@
 	},
 	{
 		"abr": "closeboardfence",
-		"price": 11,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Closeboard"
 	},
 	{
 		"abr": "closeboardgate(horizontal)",
-		"price": 11,
+		"price": -10,
 		"category": "Misc",
 		"defname": "CloseboardGateHori"
 	},
 	{
 		"abr": "closeboardgate(vertical)",
-		"price": 11,
+		"price": -10,
 		"category": "Misc",
 		"defname": "CloseboardGateVerti"
 	},
@@ -15884,13 +15884,13 @@
 	},
 	{
 		"abr": "direwolfwool",
-		"price": 8,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "ACPBDireWolfWool"
 	},
 	{
 		"abr": "dogmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_ACPWildDog"
 	},
@@ -15920,7 +15920,7 @@
 	},
 	{
 		"abr": "downybisonwool",
-		"price": 3,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "ACPBisondown"
 	},
@@ -15944,7 +15944,7 @@
 	},
 	{
 		"abr": "duck-billedplatypusmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_ACPDuckBilledPlatypus"
 	},
@@ -15968,25 +15968,25 @@
 	},
 	{
 		"abr": "exoticleather",
-		"price": 6,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_ACP"
 	},
 	{
 		"abr": "farmfence",
-		"price": 7,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Farm"
 	},
 	{
 		"abr": "farmgate(horizontal)",
-		"price": 7,
+		"price": -10,
 		"category": "Misc",
 		"defname": "FarmGateHori"
 	},
 	{
 		"abr": "farmgate(vertical)",
-		"price": 7,
+		"price": -10,
 		"category": "Misc",
 		"defname": "FarmGateVerti"
 	},
@@ -15998,7 +15998,7 @@
 	},
 	{
 		"abr": "ferretsilk",
-		"price": 10,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "ACPFerretSilk"
 	},
@@ -16124,7 +16124,7 @@
 	},
 	{
 		"abr": "horsemeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_ACPHorse"
 	},
@@ -16196,7 +16196,7 @@
 	},
 	{
 		"abr": "lionmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_ACPLion"
 	},
@@ -16208,7 +16208,7 @@
 	},
 	{
 		"abr": "llamawool",
-		"price": 5,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "ACPLlamaWool"
 	},
@@ -16220,7 +16220,7 @@
 	},
 	{
 		"abr": "m7mechanisedinfantry",
-		"price": 30000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M7Mech"
 	},
@@ -16262,7 +16262,7 @@
 	},
 	{
 		"abr": "metallicwool",
-		"price": 8,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "SteelWool"
 	},
@@ -16292,7 +16292,7 @@
 	},
 	{
 		"abr": "mutton",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_ACPSheep"
 	},
@@ -16304,7 +16304,7 @@
 	},
 	{
 		"abr": "n.solutionunitmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_RoboticCow"
 	},
@@ -16322,7 +16322,7 @@
 	},
 	{
 		"abr": "nutrientsolution",
-		"price": 13,
+		"price": -10,
 		"category": "Raw animal products",
 		"defname": "NSolution"
 	},
@@ -16370,19 +16370,19 @@
 	},
 	{
 		"abr": "picketfence",
-		"price": 7,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Picket"
 	},
 	{
 		"abr": "picketgate(horizontal)",
-		"price": 7,
+		"price": -10,
 		"category": "Misc",
 		"defname": "PicketGateHori"
 	},
 	{
 		"abr": "picketgate(vertical)",
-		"price": 7,
+		"price": -10,
 		"category": "Misc",
 		"defname": "PicketGateVerti"
 	},
@@ -16454,7 +16454,7 @@
 	},
 	{
 		"abr": "redpandameat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_ACPRedPanda"
 	},
@@ -16484,7 +16484,7 @@
 	},
 	{
 		"abr": "sheepwool",
-		"price": 4,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "ACPSheepWool"
 	},
@@ -16520,7 +16520,7 @@
 	},
 	{
 		"abr": "snowleopardmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_ACPSnowLeopard"
 	},
@@ -16550,7 +16550,7 @@
 	},
 	{
 		"abr": "spidersilk",
-		"price": 13,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "ACPSpidersilk"
 	},
@@ -16586,37 +16586,37 @@
 	},
 	{
 		"abr": "t1android",
-		"price": 2333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Android1Tier"
 	},
 	{
 		"abr": "t2android",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Android2Tier"
 	},
 	{
 		"abr": "t3android",
-		"price": 8000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Android3Tier"
 	},
 	{
 		"abr": "t4android",
-		"price": 10000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Android4Tier"
 	},
 	{
 		"abr": "t5android",
-		"price": 13333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Android5Tier"
 	},
 	{
 		"abr": "taintedskin",
-		"price": 13,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Tainted_Skin"
 	},
@@ -16646,7 +16646,7 @@
 	},
 	{
 		"abr": "tigermeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_ACPTiger"
 	},
@@ -16748,7 +16748,7 @@
 	},
 	{
 		"abr": "ancientcarpet3x3",
-		"price": 1267,
+		"price": 1217,
 		"category": "Furniture",
 		"defname": "SadjuukCarpetCD"
 	},
@@ -16772,109 +16772,109 @@
 	},
 	{
 		"abr": "armoreddoor(h)",
-		"price": 252,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukDoorJA"
 	},
 	{
 		"abr": "armoreddoor(h)",
-		"price": 252,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukDoorKA"
 	},
 	{
 		"abr": "armoreddoor(v)",
-		"price": 252,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukDoorJB"
 	},
 	{
 		"abr": "armoreddoor(v)",
-		"price": 252,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukDoorKB"
 	},
 	{
 		"abr": "armoredembrasurea",
-		"price": 100,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukEmbrasureEA"
 	},
 	{
 		"abr": "armoredembrasureb",
-		"price": 100,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukEmbrasureEB"
 	},
 	{
 		"abr": "armoredembrasurec",
-		"price": 100,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukEmbrasureEC"
 	},
 	{
 		"abr": "armoredembrasured",
-		"price": 100,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukEmbrasureED"
 	},
 	{
 		"abr": "armoredgeneratorf",
-		"price": 1917,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukGeneratorF"
 	},
 	{
 		"abr": "armoredgeneratorg",
-		"price": 5108,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukGeneratorG"
 	},
 	{
 		"abr": "armoredgeneratorm",
-		"price": 11000,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukGeneratorM"
 	},
 	{
 		"abr": "armoredgeneratorn",
-		"price": 5500,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukGeneratorN"
 	},
 	{
 		"abr": "armoredplate",
-		"price": 23,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "SadjuukArmoredPlate"
 	},
 	{
 		"abr": "armoredwalla",
-		"price": 95,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukWallEA"
 	},
 	{
 		"abr": "armoredwallb",
-		"price": 95,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukWallEB"
 	},
 	{
 		"abr": "armoredwallc",
-		"price": 95,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukWallEC"
 	},
 	{
 		"abr": "armoredwalld",
-		"price": 95,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukWallED"
 	},
 	{
 		"abr": "asphaltconcrete",
-		"price": 7,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "SadjuukAsphaltConcrete"
 	},
@@ -16886,7 +16886,7 @@
 	},
 	{
 		"abr": "basiccomponents",
-		"price": 6,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "SadjuukBasicComponent"
 	},
@@ -16898,103 +16898,103 @@
 	},
 	{
 		"abr": "biohazardsign",
-		"price": 41,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukHighBannerCD"
 	},
 	{
 		"abr": "blackbanner",
-		"price": 64,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukHighBannerAK"
 	},
 	{
 		"abr": "blackflag",
-		"price": 34,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukHighBannerBK"
 	},
 	{
 		"abr": "bluedoublelines",
-		"price": 7,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukPaintAC"
 	},
 	{
 		"abr": "bluelight",
-		"price": 18,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukLightBB"
 	},
 	{
 		"abr": "bluelight",
-		"price": 29,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukLightCB"
 	},
 	{
 		"abr": "bluelight",
-		"price": 62,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukLightFB"
 	},
 	{
 		"abr": "bluelight",
-		"price": 62,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukLightGB"
 	},
 	{
 		"abr": "bluepaintedarrow",
-		"price": 7,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukPaintBC"
 	},
 	{
 		"abr": "bluesimpleline",
-		"price": 7,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukPaintAG"
 	},
 	{
 		"abr": "bluesterilewall",
-		"price": 61,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Wall_SterileBlue"
 	},
 	{
 		"abr": "bluetorch",
-		"price": 18,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukLightAB"
 	},
 	{
 		"abr": "bluetorch",
-		"price": 75,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukLightDB"
 	},
 	{
 		"abr": "bluetorch",
-		"price": 75,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukLightEB"
 	},
 	{
 		"abr": "bluewalllight",
-		"price": 13,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukWallLightAB"
 	},
 	{
 		"abr": "bluewalllight",
-		"price": 13,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukWallLightBB"
 	},
 	{
 		"abr": "bluewalllight",
-		"price": 17,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukWallLightCB"
 	},
@@ -17006,19 +17006,19 @@
 	},
 	{
 		"abr": "bolshvevbanner",
-		"price": 64,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukHighBannerAE"
 	},
 	{
 		"abr": "bolshvevflag",
-		"price": 34,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukHighBannerBE"
 	},
 	{
 		"abr": "brownsterilewall",
-		"price": 61,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Wall_SterileBrown"
 	},
@@ -17036,79 +17036,79 @@
 	},
 	{
 		"abr": "ceramicheater",
-		"price": 131,
+		"price": -10,
 		"category": "Temperature",
 		"defname": "SadjuukHeaterAB"
 	},
 	{
 		"abr": "concrete",
-		"price": 4,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "SadjuukConcrete"
 	},
 	{
 		"abr": "concreteembrasurea",
-		"price": 30,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukEmbrasureCA"
 	},
 	{
 		"abr": "concreteembrasureb",
-		"price": 43,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukEmbrasureCB"
 	},
 	{
 		"abr": "concreteembrasurec",
-		"price": 43,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukEmbrasureCC"
 	},
 	{
 		"abr": "concreteembrasured",
-		"price": 43,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukEmbrasureCD"
 	},
 	{
 		"abr": "concreteembrasuree",
-		"price": 43,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukEmbrasureCE"
 	},
 	{
 		"abr": "concretefence",
-		"price": 14,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukConcreteFence"
 	},
 	{
 		"abr": "concretewalla",
-		"price": 26,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukWallCA"
 	},
 	{
 		"abr": "concretewallb",
-		"price": 38,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukWallCB"
 	},
 	{
 		"abr": "concretewallc",
-		"price": 38,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukWallCC"
 	},
 	{
 		"abr": "concretewalld",
-		"price": 38,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukWallCD"
 	},
 	{
 		"abr": "concretewalle",
-		"price": 38,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukWallCE"
 	},
@@ -17126,13 +17126,13 @@
 	},
 	{
 		"abr": "crossbanner",
-		"price": 64,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukHighBannerAS"
 	},
 	{
 		"abr": "crossflag",
-		"price": 34,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukHighBannerBS"
 	},
@@ -17180,7 +17180,7 @@
 	},
 	{
 		"abr": "cryptosleepsuspender",
-		"price": 733,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Bed_CryptoBed"
 	},
@@ -17192,7 +17192,7 @@
 	},
 	{
 		"abr": "deathdangersign",
-		"price": 41,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukHighBannerCB"
 	},
@@ -17216,31 +17216,31 @@
 	},
 	{
 		"abr": "diktatbanner",
-		"price": 64,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukHighBannerAD"
 	},
 	{
 		"abr": "diktatflag",
-		"price": 34,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukHighBannerBD"
 	},
 	{
 		"abr": "doublelogsbed",
-		"price": 85,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukBedBA"
 	},
 	{
 		"abr": "doublesteelbed",
-		"price": 425,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukBedBC"
 	},
 	{
 		"abr": "doublewoodenbed",
-		"price": 367,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukBedBB"
 	},
@@ -17258,7 +17258,7 @@
 	},
 	{
 		"abr": "electricdangersign",
-		"price": 41,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukHighBannerCE"
 	},
@@ -17270,13 +17270,13 @@
 	},
 	{
 		"abr": "electricfan",
-		"price": 43,
+		"price": -10,
 		"category": "Temperature",
 		"defname": "SadjuukCoolerAA"
 	},
 	{
 		"abr": "electricheater",
-		"price": 96,
+		"price": -10,
 		"category": "Temperature",
 		"defname": "SadjuukHeaterAA"
 	},
@@ -17300,7 +17300,7 @@
 	},
 	{
 		"abr": "firedangersign",
-		"price": 41,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukHighBannerCA"
 	},
@@ -17330,7 +17330,7 @@
 	},
 	{
 		"abr": "forkliftwarningsign",
-		"price": 41,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukHighBannerCF"
 	},
@@ -17366,25 +17366,25 @@
 	},
 	{
 		"abr": "galliabanner",
-		"price": 64,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukHighBannerAB"
 	},
 	{
 		"abr": "galliaflag",
-		"price": 34,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukHighBannerBB"
 	},
 	{
 		"abr": "gdibanner",
-		"price": 64,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukHighBannerAO"
 	},
 	{
 		"abr": "gdiflag",
-		"price": 34,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukHighBannerBO"
 	},
@@ -17396,157 +17396,157 @@
 	},
 	{
 		"abr": "glassdoor(h)",
-		"price": 70,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukDoorCA"
 	},
 	{
 		"abr": "glassdoor(v)",
-		"price": 70,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukDoorCB"
 	},
 	{
 		"abr": "glassmeetingtable",
-		"price": 217,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukTableFD"
 	},
 	{
 		"abr": "glasspartition",
-		"price": 14,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukGlassFenceA"
 	},
 	{
 		"abr": "glasstable",
-		"price": 36,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukTableAD"
 	},
 	{
 		"abr": "glasstable",
-		"price": 72,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukTableBD"
 	},
 	{
 		"abr": "glasstable",
-		"price": 109,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukTableCD"
 	},
 	{
 		"abr": "glasstable",
-		"price": 145,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukTableDD"
 	},
 	{
 		"abr": "glasstable",
-		"price": 217,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukTableED"
 	},
 	{
 		"abr": "goldsterilewall",
-		"price": 61,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Wall_SterileGold"
 	},
 	{
 		"abr": "greenlight",
-		"price": 18,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukLightBG"
 	},
 	{
 		"abr": "greenlight",
-		"price": 29,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukLightCG"
 	},
 	{
 		"abr": "greenlight",
-		"price": 62,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukLightFG"
 	},
 	{
 		"abr": "greenlight",
-		"price": 62,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukLightGG"
 	},
 	{
 		"abr": "greenshieldedembrasure",
-		"price": 57,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukEmbrasureDB"
 	},
 	{
 		"abr": "greenshieldedwall",
-		"price": 53,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukWallDB"
 	},
 	{
 		"abr": "greensterilewall",
-		"price": 61,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Wall_SterileGreen"
 	},
 	{
 		"abr": "greentorch",
-		"price": 18,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukLightAG"
 	},
 	{
 		"abr": "greentorch",
-		"price": 75,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukLightDG"
 	},
 	{
 		"abr": "greentorch",
-		"price": 75,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukLightEG"
 	},
 	{
 		"abr": "greenwalllight",
-		"price": 13,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukWallLightAG"
 	},
 	{
 		"abr": "greenwalllight",
-		"price": 13,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukWallLightBG"
 	},
 	{
 		"abr": "greenwalllight",
-		"price": 17,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukWallLightCG"
 	},
 	{
 		"abr": "gridfence",
-		"price": 15,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukGridFence"
 	},
 	{
 		"abr": "gridgate(h)",
-		"price": 55,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukDoorBA"
 	},
 	{
 		"abr": "gridgate(v)",
-		"price": 55,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukDoorBB"
 	},
@@ -17558,31 +17558,31 @@
 	},
 	{
 		"abr": "haycarpet2x1",
-		"price": 2,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukCarpetAA"
 	},
 	{
 		"abr": "haycarpet2x2",
-		"price": 3,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukCarpetBA"
 	},
 	{
 		"abr": "haycarpet3x3",
-		"price": 8,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukCarpetCA"
 	},
 	{
 		"abr": "icecamoembrasure",
-		"price": 57,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukEmbrasureDF"
 	},
 	{
 		"abr": "icecamowall",
-		"price": 53,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukWallDF"
 	},
@@ -17618,13 +17618,13 @@
 	},
 	{
 		"abr": "lechbanner",
-		"price": 64,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukHighBannerAN"
 	},
 	{
 		"abr": "lechflag",
-		"price": 34,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukHighBannerBN"
 	},
@@ -17636,13 +17636,13 @@
 	},
 	{
 		"abr": "lysbanner",
-		"price": 64,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukHighBannerAR"
 	},
 	{
 		"abr": "lysflag",
-		"price": 34,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukHighBannerBR"
 	},
@@ -17672,7 +17672,7 @@
 	},
 	{
 		"abr": "metalgrid",
-		"price": 4,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "SadjuukMetalGrid"
 	},
@@ -17690,67 +17690,67 @@
 	},
 	{
 		"abr": "moderncarpet2x1",
-		"price": 383,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukCarpetAG"
 	},
 	{
 		"abr": "moderncarpet2x1",
-		"price": 383,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukCarpetAH"
 	},
 	{
 		"abr": "moderncarpet2x1",
-		"price": 383,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukCarpetAI"
 	},
 	{
 		"abr": "moderncarpet2x2",
-		"price": 767,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukCarpetBG"
 	},
 	{
 		"abr": "moderncarpet2x2",
-		"price": 767,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukCarpetBH"
 	},
 	{
 		"abr": "moderncarpet2x2",
-		"price": 767,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukCarpetBI"
 	},
 	{
 		"abr": "moderncarpet3x3",
-		"price": 1733,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukCarpetCG"
 	},
 	{
 		"abr": "moderncarpet3x3",
-		"price": 1733,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukCarpetCH"
 	},
 	{
 		"abr": "moderncarpet3x3",
-		"price": 1733,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukCarpetCI"
 	},
 	{
 		"abr": "nodbanner",
-		"price": 64,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukHighBannerAF"
 	},
 	{
 		"abr": "nodflag",
-		"price": 34,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukHighBannerBF"
 	},
@@ -17768,73 +17768,73 @@
 	},
 	{
 		"abr": "plasteelmeetingtable",
-		"price": 625,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukTableFE"
 	},
 	{
 		"abr": "plasteelmeetingtable",
-		"price": 625,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukTableFF"
 	},
 	{
 		"abr": "plasteeltable",
-		"price": 135,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukTableAE"
 	},
 	{
 		"abr": "plasteeltable",
-		"price": 135,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukTableAF"
 	},
 	{
 		"abr": "plasteeltable",
-		"price": 270,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukTableBE"
 	},
 	{
 		"abr": "plasteeltable",
-		"price": 270,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukTableBF"
 	},
 	{
 		"abr": "plasteeltable",
-		"price": 408,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukTableCE"
 	},
 	{
 		"abr": "plasteeltable",
-		"price": 408,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukTableCF"
 	},
 	{
 		"abr": "plasteeltable",
-		"price": 542,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukTableDE"
 	},
 	{
 		"abr": "plasteeltable",
-		"price": 542,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukTableDF"
 	},
 	{
 		"abr": "plasteeltable",
-		"price": 808,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukTableEE"
 	},
 	{
 		"abr": "plasteeltable",
-		"price": 808,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukTableEF"
 	},
@@ -17858,121 +17858,121 @@
 	},
 	{
 		"abr": "powerconduit",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukPowerConduit"
 	},
 	{
 		"abr": "radiationwarningsign",
-		"price": 41,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukHighBannerCC"
 	},
 	{
 		"abr": "redbanner",
-		"price": 64,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukHighBannerAG"
 	},
 	{
 		"abr": "reddoublelines",
-		"price": 7,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukPaintAD"
 	},
 	{
 		"abr": "redflag",
-		"price": 34,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukHighBannerBG"
 	},
 	{
 		"abr": "redlight",
-		"price": 18,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukLightBR"
 	},
 	{
 		"abr": "redlight",
-		"price": 29,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukLightCR"
 	},
 	{
 		"abr": "redlight",
-		"price": 62,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukLightFR"
 	},
 	{
 		"abr": "redlight",
-		"price": 62,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukLightGR"
 	},
 	{
 		"abr": "redpaintedarrow",
-		"price": 7,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukPaintBD"
 	},
 	{
 		"abr": "redsimpleline",
-		"price": 7,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukPaintAH"
 	},
 	{
 		"abr": "redsterilewall",
-		"price": 61,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Wall_SterileRed"
 	},
 	{
 		"abr": "redtorch",
-		"price": 18,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukLightAR"
 	},
 	{
 		"abr": "redtorch",
-		"price": 75,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukLightDR"
 	},
 	{
 		"abr": "redtorch",
-		"price": 75,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukLightER"
 	},
 	{
 		"abr": "redwalllight",
-		"price": 13,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukWallLightAR"
 	},
 	{
 		"abr": "redwalllight",
-		"price": 13,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukWallLightBR"
 	},
 	{
 		"abr": "redwalllight",
-		"price": 17,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukWallLightCR"
 	},
 	{
 		"abr": "redzebra(l)",
-		"price": 26,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukPaintCA"
 	},
 	{
 		"abr": "redzebra(r)",
-		"price": 26,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukPaintCB"
 	},
@@ -18038,13 +18038,13 @@
 	},
 	{
 		"abr": "rusbanner",
-		"price": 64,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukHighBannerAP"
 	},
 	{
 		"abr": "rusflag",
-		"price": 34,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukHighBannerBP"
 	},
@@ -18062,49 +18062,49 @@
 	},
 	{
 		"abr": "shieldeddoor(h)",
-		"price": 106,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukDoorHA"
 	},
 	{
 		"abr": "shieldeddoor(h)",
-		"price": 106,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukDoorIA"
 	},
 	{
 		"abr": "shieldeddoor(v)",
-		"price": 106,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukDoorHB"
 	},
 	{
 		"abr": "shieldeddoor(v)",
-		"price": 106,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukDoorIB"
 	},
 	{
 		"abr": "shieldedembrasure",
-		"price": 39,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukEmbrasureDA"
 	},
 	{
 		"abr": "shieldedwall",
-		"price": 34,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukWallDA"
 	},
 	{
 		"abr": "skybluebanner",
-		"price": 64,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukHighBannerAI"
 	},
 	{
 		"abr": "skyblueflag",
-		"price": 34,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukHighBannerBI"
 	},
@@ -18152,7 +18152,7 @@
 	},
 	{
 		"abr": "solarcell",
-		"price": 12,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "SadjuukSolarCell"
 	},
@@ -18176,13 +18176,13 @@
 	},
 	{
 		"abr": "statesbanner",
-		"price": 64,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukHighBannerAQ"
 	},
 	{
 		"abr": "statesflag",
-		"price": 34,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukHighBannerBQ"
 	},
@@ -18212,49 +18212,49 @@
 	},
 	{
 		"abr": "steeldoor(h)",
-		"price": 37,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukDoorEA"
 	},
 	{
 		"abr": "steeldoor(h)",
-		"price": 57,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukDoorFA"
 	},
 	{
 		"abr": "steeldoor(h)",
-		"price": 69,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukDoorGA"
 	},
 	{
 		"abr": "steeldoor(v)",
-		"price": 37,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukDoorEB"
 	},
 	{
 		"abr": "steeldoor(v)",
-		"price": 57,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukDoorFB"
 	},
 	{
 		"abr": "steeldoor(v)",
-		"price": 69,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukDoorGB"
 	},
 	{
 		"abr": "steelembrasurea",
-		"price": 20,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukEmbrasureBA"
 	},
 	{
 		"abr": "steelembrasureb",
-		"price": 20,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukEmbrasureBB"
 	},
@@ -18284,7 +18284,7 @@
 	},
 	{
 		"abr": "steelplate",
-		"price": 3,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "SadjuukSteelPlate"
 	},
@@ -18326,25 +18326,25 @@
 	},
 	{
 		"abr": "steeltube",
-		"price": 4,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "SadjuukSteelTube"
 	},
 	{
 		"abr": "steelventilation",
-		"price": 44,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukVentAA"
 	},
 	{
 		"abr": "steelwalla",
-		"price": 16,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukWallBA"
 	},
 	{
 		"abr": "steelwallb",
-		"price": 16,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukWallBB"
 	},
@@ -18362,7 +18362,7 @@
 	},
 	{
 		"abr": "syntheticpaint",
-		"price": 6,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "SadjuukSyntheticPaint"
 	},
@@ -18374,7 +18374,7 @@
 	},
 	{
 		"abr": "tealsterilewall",
-		"price": 61,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Wall_SterileTeal"
 	},
@@ -18392,7 +18392,7 @@
 	},
 	{
 		"abr": "tribalcalendar",
-		"price": 675,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukResearchBA"
 	},
@@ -18434,13 +18434,13 @@
 	},
 	{
 		"abr": "unscbanner",
-		"price": 64,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukHighBannerAA"
 	},
 	{
 		"abr": "unscflag",
-		"price": 34,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukHighBannerBA"
 	},
@@ -18464,109 +18464,109 @@
 	},
 	{
 		"abr": "whitebanner",
-		"price": 64,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukHighBannerAL"
 	},
 	{
 		"abr": "whitedoublelines",
-		"price": 7,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukPaintAB"
 	},
 	{
 		"abr": "whiteflag",
-		"price": 34,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukHighBannerBL"
 	},
 	{
 		"abr": "whitelight",
-		"price": 18,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukLightBW"
 	},
 	{
 		"abr": "whitelight",
-		"price": 29,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukLightCW"
 	},
 	{
 		"abr": "whitelight",
-		"price": 62,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukLightFW"
 	},
 	{
 		"abr": "whitelight",
-		"price": 62,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukLightGW"
 	},
 	{
 		"abr": "whitepaintedarrow",
-		"price": 7,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukPaintBB"
 	},
 	{
 		"abr": "whitesimpleline",
-		"price": 7,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukPaintAF"
 	},
 	{
 		"abr": "whitestreetlight",
-		"price": 53,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukStreetLightAW"
 	},
 	{
 		"abr": "whitestreetlight",
-		"price": 53,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukStreetLightBW"
 	},
 	{
 		"abr": "whitetorch",
-		"price": 18,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukLightAW"
 	},
 	{
 		"abr": "whitetorch",
-		"price": 75,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukLightDW"
 	},
 	{
 		"abr": "whitetorch",
-		"price": 75,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukLightEW"
 	},
 	{
 		"abr": "whitewalllight",
-		"price": 13,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukWallLightAW"
 	},
 	{
 		"abr": "whitewalllight",
-		"price": 13,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukWallLightBW"
 	},
 	{
 		"abr": "whitewalllight",
-		"price": 17,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukWallLightCW"
 	},
 	{
 		"abr": "wire",
-		"price": 1,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "SadjuukWire"
 	},
@@ -18710,49 +18710,49 @@
 	},
 	{
 		"abr": "woodendoor(h)",
-		"price": 32,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukDoorDA"
 	},
 	{
 		"abr": "woodendoor(h)",
-		"price": 32,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukDoorLA"
 	},
 	{
 		"abr": "woodendoor(v)",
-		"price": 32,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukDoorDB"
 	},
 	{
 		"abr": "woodendoor(v)",
-		"price": 32,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukDoorLB"
 	},
 	{
 		"abr": "woodenembrasurea",
-		"price": 15,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukEmbrasureAA"
 	},
 	{
 		"abr": "woodenembrasureb",
-		"price": 15,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukEmbrasureAB"
 	},
 	{
 		"abr": "woodengate(h)",
-		"price": 21,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukDoorAA"
 	},
 	{
 		"abr": "woodengate(v)",
-		"price": 21,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukDoorAB"
 	},
@@ -18782,13 +18782,13 @@
 	},
 	{
 		"abr": "woodenwalla",
-		"price": 13,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukWallAA"
 	},
 	{
 		"abr": "woodenwallb",
-		"price": 13,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukWallAB"
 	},
@@ -18800,127 +18800,127 @@
 	},
 	{
 		"abr": "woodlandcamoembrasure",
-		"price": 57,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukEmbrasureDC"
 	},
 	{
 		"abr": "woodlandcamowall",
-		"price": 53,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukWallDC"
 	},
 	{
 		"abr": "yellowbanner",
-		"price": 64,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukHighBannerAJ"
 	},
 	{
 		"abr": "yellowdoublelines",
-		"price": 7,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukPaintAA"
 	},
 	{
 		"abr": "yellowflag",
-		"price": 34,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukHighBannerBJ"
 	},
 	{
 		"abr": "yellowlight",
-		"price": 18,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukLightBY"
 	},
 	{
 		"abr": "yellowlight",
-		"price": 29,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukLightCY"
 	},
 	{
 		"abr": "yellowlight",
-		"price": 62,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukLightFY"
 	},
 	{
 		"abr": "yellowlight",
-		"price": 62,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukLightGY"
 	},
 	{
 		"abr": "yellowpaintedarrow",
-		"price": 7,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukPaintBA"
 	},
 	{
 		"abr": "yellowsimplelines",
-		"price": 7,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukPaintAE"
 	},
 	{
 		"abr": "yellowstreetlight",
-		"price": 53,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukStreetLightAY"
 	},
 	{
 		"abr": "yellowstreetlight",
-		"price": 53,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukStreetLightBY"
 	},
 	{
 		"abr": "yellowtorch",
-		"price": 18,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukLightAY"
 	},
 	{
 		"abr": "yellowtorch",
-		"price": 75,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukLightDY"
 	},
 	{
 		"abr": "yellowtorch",
-		"price": 75,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukLightEY"
 	},
 	{
 		"abr": "yellowwalllight",
-		"price": 13,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukWallLightAY"
 	},
 	{
 		"abr": "yellowwalllight",
-		"price": 13,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukWallLightBY"
 	},
 	{
 		"abr": "yellowwalllight",
-		"price": 17,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SadjuukWallLightCY"
 	},
 	{
 		"abr": "yellowzebra(l)",
-		"price": 26,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukPaintCC"
 	},
 	{
 		"abr": "yellowzebra(r)",
-		"price": 26,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SadjuukPaintCD"
 	},
@@ -18932,31 +18932,31 @@
 	},
 	{
 		"abr": "chameleonyakmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AA_ChameleonYak"
 	},
 	{
 		"abr": "chameleonyakwool,desert",
-		"price": 4,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "AA_ChameleonYakWoolDesert"
 	},
 	{
 		"abr": "chameleonyakwool,jungle",
-		"price": 4,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "AA_ChameleonYakWoolJungle"
 	},
 	{
 		"abr": "chameleonyakwool,temperate",
-		"price": 4,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "AA_ChameleonYakWoolTemperate"
 	},
 	{
 		"abr": "chameleonyakwool,winter",
-		"price": 4,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "AA_ChameleonYakWoolWinter"
 	},
@@ -18974,7 +18974,7 @@
 	},
 	{
 		"abr": "desertavemeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AA_DesertAve"
 	},
@@ -18992,7 +18992,7 @@
 	},
 	{
 		"abr": "frostavemeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AA_FrostAve"
 	},
@@ -19022,7 +19022,7 @@
 	},
 	{
 		"abr": "nightavemeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AA_NightAve"
 	},
@@ -19040,7 +19040,7 @@
 	},
 	{
 		"abr": "royalavemeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AA_RoyalAve"
 	},
@@ -19052,31 +19052,31 @@
 	},
 	{
 		"abr": "teratogenicoriginatormeat",
-		"price": 3,
+		"price": -10,
 		"category": "Raw meat",
 		"defname": "Meat_AA_TeratogenicOriginator"
 	},
 	{
 		"abr": "ads",
-		"price": 700,
+		"price": -10,
 		"category": "Misc",
 		"defname": "PPCADS"
 	},
 	{
 		"abr": "alc",
-		"price": 67,
+		"price": -10,
 		"category": "Rimatomics Product",
 		"defname": "ALC"
 	},
 	{
 		"abr": "atom",
-		"price": 67,
+		"price": -10,
 		"category": "Rimatomics Product",
 		"defname": "ATOM"
 	},
 	{
 		"abr": "beamsplitter",
-		"price": 67,
+		"price": -10,
 		"category": "Rimatomics Product",
 		"defname": "BeamSplitter"
 	},
@@ -19100,7 +19100,7 @@
 	},
 	{
 		"abr": "controlrodactuator",
-		"price": 67,
+		"price": -10,
 		"category": "Rimatomics Product",
 		"defname": "ControlRodActuator"
 	},
@@ -19124,13 +19124,13 @@
 	},
 	{
 		"abr": "depleteduranium",
-		"price": 13,
+		"price": -10,
 		"category": "Rimatomics Product",
 		"defname": "DepletedUraniumPellets"
 	},
 	{
 		"abr": "driveactuator",
-		"price": 67,
+		"price": -10,
 		"category": "Rimatomics Product",
 		"defname": "DriveActuator"
 	},
@@ -19142,13 +19142,13 @@
 	},
 	{
 		"abr": "dusabotround",
-		"price": 83,
+		"price": -10,
 		"category": "Sabot Rounds",
 		"defname": "RailgunSabotDU"
 	},
 	{
 		"abr": "ers",
-		"price": 67,
+		"price": -10,
 		"category": "Rimatomics Product",
 		"defname": "ERS"
 	},
@@ -19166,31 +19166,31 @@
 	},
 	{
 		"abr": "hel",
-		"price": 1083,
+		"price": -10,
 		"category": "Misc",
 		"defname": "PPCHEL"
 	},
 	{
 		"abr": "highvoltage",
-		"price": 11,
+		"price": -10,
 		"category": "Misc",
 		"defname": "HighVoltage"
 	},
 	{
 		"abr": "highvoltagetransformer",
-		"price": 867,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Transformer"
 	},
 	{
 		"abr": "lensmodule",
-		"price": 67,
+		"price": -10,
 		"category": "Rimatomics Product",
 		"defname": "LenseModule"
 	},
 	{
 		"abr": "liberator",
-		"price": 3942,
+		"price": -10,
 		"category": "Misc",
 		"defname": "MissileSilo"
 	},
@@ -19202,13 +19202,13 @@
 	},
 	{
 		"abr": "meps",
-		"price": 67,
+		"price": -10,
 		"category": "Rimatomics Product",
 		"defname": "MEPS"
 	},
 	{
 		"abr": "missilefuselage",
-		"price": 67,
+		"price": -10,
 		"category": "Rimatomics Product",
 		"defname": "MissileFuselage"
 	},
@@ -19250,19 +19250,19 @@
 	},
 	{
 		"abr": "nuclearwarhead",
-		"price": 24000,
+		"price": -10,
 		"category": "Rimatomics Product",
 		"defname": "FissionWarhead"
 	},
 	{
 		"abr": "obelisk",
-		"price": 2217,
+		"price": -10,
 		"category": "Misc",
 		"defname": "PPCObelisk"
 	},
 	{
 		"abr": "plutonium",
-		"price": 100,
+		"price": -10,
 		"category": "Rimatomics Product",
 		"defname": "Plutonium"
 	},
@@ -19280,13 +19280,13 @@
 	},
 	{
 		"abr": "ppc",
-		"price": 1767,
+		"price": -10,
 		"category": "Misc",
 		"defname": "PPC"
 	},
 	{
 		"abr": "punisher",
-		"price": 1725,
+		"price": -10,
 		"category": "Misc",
 		"defname": "PPCRailgun"
 	},
@@ -19346,7 +19346,7 @@
 	},
 	{
 		"abr": "reinforcedduwall",
-		"price": 157,
+		"price": -10,
 		"category": "Misc",
 		"defname": "RadiationShielding"
 	},
@@ -19370,13 +19370,13 @@
 	},
 	{
 		"abr": "rocketengine",
-		"price": 67,
+		"price": -10,
 		"category": "Rimatomics Product",
 		"defname": "RocketEngine"
 	},
 	{
 		"abr": "sabotround",
-		"price": 17,
+		"price": -10,
 		"category": "Sabot Rounds",
 		"defname": "RailgunSabot"
 	},
@@ -19406,7 +19406,7 @@
 	},
 	{
 		"abr": "scad",
-		"price": 67,
+		"price": -10,
 		"category": "Rimatomics Product",
 		"defname": "SCAD"
 	},
@@ -19430,19 +19430,19 @@
 	},
 	{
 		"abr": "tacs",
-		"price": 1258,
+		"price": -10,
 		"category": "Misc",
 		"defname": "RadarDish"
 	},
 	{
 		"abr": "targetingchip",
-		"price": 67,
+		"price": -10,
 		"category": "Rimatomics Product",
 		"defname": "TargetingChip"
 	},
 	{
 		"abr": "teslacoil",
-		"price": 792,
+		"price": -10,
 		"category": "Misc",
 		"defname": "PPCTeslaCoil"
 	},
@@ -19454,13 +19454,13 @@
 	},
 	{
 		"abr": "turbineblades",
-		"price": 2,
+		"price": -10,
 		"category": "Rimatomics Product",
 		"defname": "turbineBlade"
 	},
 	{
 		"abr": "uraniumpellets",
-		"price": 3,
+		"price": -10,
 		"category": "Rimatomics Product",
 		"defname": "UraniumPellets"
 	},
@@ -19482,6 +19482,180 @@
 		"category": "Misc",
 		"defname": "BigTurbine"
 	},
+	{
+		"abr": "guestadvancedbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_AdvBedGuest"
+	},
+	{
+		"abr": "guestadvanceddoublebed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_AdvDoubleBedGuest"
+	},
+	{
+		"abr": "guestandroidupgradestation",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "AndroidOperationBedGuest"
+	},
+	{
+		"abr": "guestbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "BedGuest"
+	},
+	{
+		"abr": "guestbedroll",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "BedrollGuest"
+	},
+	{
+		"abr": "guestcrib",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "CribGuest"
+	},
+	{
+		"abr": "guestcryptosleepsuspender",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_CryptoBedGuest"
+	},
+	{
+		"abr": "guestdoublebed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "DoubleBedGuest"
+	},
+	{
+		"abr": "guestdoublebedroll",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "BedrollDoubleGuest"
+	},
+	{
+		"abr": "guestdoublelogsbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "SadjuukBedBAGuest"
+	},
+	{
+		"abr": "guestdoublesteelbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "SadjuukBedBCGuest"
+	},
+	{
+		"abr": "guestdoublewoodenbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "SadjuukBedBBGuest"
+	},
+	{
+		"abr": "guestergonomicbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_ErgonomicGuest"
+	},
+	{
+		"abr": "guestergonomicdoublebed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_DoubleErgonomicGuest"
+	},
+	{
+		"abr": "guestglitterworldhospitalbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "GlitterworldHospitalBedSWGuest"
+	},
+	{
+		"abr": "guesthospitalbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "HospitalBedGuest"
+	},
+	{
+		"abr": "guestmedecinetable",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "SadjuukSurgeryBAGuest"
+	},
+	{
+		"abr": "guestoperatingtable",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_OperatingTableGuest"
+	},
+	{
+		"abr": "guestoperatingtable",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "SadjuukSurgeryBDGuest"
+	},
+	{
+		"abr": "guestroyalbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "RoyalBedGuest"
+	},
+	{
+		"abr": "guestroyalposterbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_KingsizeGuest"
+	},
+	{
+		"abr": "guestsimplebed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_SimpleGuest"
+	},
+	{
+		"abr": "guestslabbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_StoneSlabGuest"
+	},
+	{
+		"abr": "gueststeelbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "SadjuukBedACGuest"
+	},
+	{
+		"abr": "gueststeelmedicalbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "SadjuukSurgeryBCGuest"
+	},
+	{
+		"abr": "guestwoodlogsbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "SadjuukBedAAGuest"
+	},
+	{
+		"abr": "guestwoodenbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "SadjuukBedABGuest"
+	},
+	{
+		"abr": "guestwoodenmedicalbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "SadjuukSurgeryBBGuest"
+	},
+	{
+		"abr": "guestre-ambulationpod",
+		"price": 12458,
+		"category": "Misc",
+		"defname": "ambTableGuest"
+	}
 	],
-	"total": 3280
+	"total": 3309
 }
